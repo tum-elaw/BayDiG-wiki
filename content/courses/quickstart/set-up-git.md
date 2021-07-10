@@ -46,6 +46,8 @@ If you don't need to work with files locally, {% data variables.product.product_
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3AWKFAGqrhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3AWKFAGqrhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 When you connect to a {% data variables.product.product_name %} repository from Git, you'll need to authenticate with {% data variables.product.product_name %} using either HTTPS or SSH.
 
 ### Connecting over HTTPS (recommended)
