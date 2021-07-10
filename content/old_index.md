@@ -14,7 +14,27 @@ featuredLinks:
     - /github/working-with-github-pages
 versions: '*'
 children:
-  - courses
+  - get-started
+  - github
+  - admin
+  - billing
+  - organizations
+  - code-security
+  - issues
+  - actions
+  - packages
+  - developers
+  - rest
+  - graphql
+  - insights
+  - discussions
+  - codespaces
+  - sponsors
+  - communities
+  - pages
+  - education
+  - desktop
+  - early-access
 externalProducts:
   cli:
     id: cli

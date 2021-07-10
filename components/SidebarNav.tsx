@@ -27,13 +27,15 @@ export const SidebarNav = () => {
           aria-hidden="true"
           tabIndex={-1}
         >
-          <MarkGithubIcon size={32} />
+          {/*<MarkGithubIcon size={32} />*/}
+          <img src="assets/images/site/govlogo.png" width="50px"></img>
         </Link>
         <Link
           href={`/${router.locale}`}
           className="h4-mktg color-text-primary no-underline no-wrap pl-2 flex-auto"
         >
-          {t('github_docs')}
+          {/*{t('github_docs')} */}
+          TUM GOV Wiki
         </Link>
       </div>
       <nav>
