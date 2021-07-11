@@ -1,6 +1,7 @@
 ---
 title: Einführung
 intro: 'Die erste Begriffsannäherung an Legal Tech'
+miniTocMaxHeadingLevel: 3
 versions:
   fpt: '*'
   ghes: '>=3.0'

@@ -13,8 +13,10 @@ topics:
 children:
   - /intro
   - /medienkompendium
-  - /video
+  - /video1
   - /podcast1
   - /video2
+  - /history
+  - /podcast2
 ---
 
