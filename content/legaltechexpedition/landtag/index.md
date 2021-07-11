@@ -12,5 +12,9 @@ topics:
   - Vulnerabilities
 children:
   - /intro
+  - /medienkompendium
+  - /video
+  - /podcast1
+  - /video2
 ---
 
