@@ -14,7 +14,10 @@ featuredLinks:
     - /github/working-with-github-pages
 versions: '*'
 children:
+  - gesetzgebungsverfahren
+  - policytopics
   - courses
+  - glrecht
 externalProducts:
   cli:
     id: cli

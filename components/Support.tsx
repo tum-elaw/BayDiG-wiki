@@ -10,7 +10,7 @@ export const Support = () => {
   return (
     <div>
       <h3 className="mb-2 f4">{t`still_need_help`}</h3>
-      <a id="ask-community" href="https://github.community" className="btn btn-outline mr-4 mt-2">
+      <a id="ask-community" href="https://discord.gg/M7U4SuyjYc" className="btn btn-outline mr-4 mt-2">
         <PeopleIcon size="small" className="octicon mr-1" />
         {t`ask_community`}
       </a>
@@ -18,8 +18,8 @@ export const Support = () => {
         id="contact-us"
         href={
           isEnterprise
-            ? 'https://enterprise.github.com/support'
-            : 'https://support.github.com/contact'
+            ? 'https://www.gov.tum.de/elaw/team/michael-bressler/'
+            : 'https://www.gov.tum.de/elaw/team/michael-bressler/'
         }
         className="btn btn-outline mt-2"
       >
