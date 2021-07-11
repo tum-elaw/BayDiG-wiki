@@ -7,7 +7,7 @@ export const AllProductsLink = () => {
     <li title="Home">
       <a href={`/${router.locale}`} className="f6 pl-4 pr-5 ml-n1 pb-1 color-text-primary">
         <ArrowLeftIcon size="small" className="mr-1" />
-        All products
+        All Topics and Courses
       </a>
     </li>
   )
