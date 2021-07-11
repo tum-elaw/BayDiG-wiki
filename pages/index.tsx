@@ -12,7 +12,7 @@ import { useTranslation } from 'components/hooks/useTranslation'
 import { useVersion } from 'components/hooks/useVersion'
 import { LinkExternalIcon } from '@primer/octicons-react'
 import { useRouter } from 'next/router'
-import { OctocatHeader } from 'components/landing/OctocatHeader'
+import { HfPHeader } from 'components/landing/HfPHeader'
 import { ArticleList } from 'components/landing/ArticleList'
 import { Search } from 'components/Search'
 
@@ -57,7 +57,7 @@ function LandingPage(props: LandingPageProps) {
               <div className="container-xl px-3 px-md-6 pb-6 pb-lg-9">
                 <div className="gutter gutter-xl-spacious pt-6 pt-lg-0 d-lg-flex flex-row-reverse flex-items-center">
                   <div className="col-lg-7">
-                    <OctocatHeader />
+                    <HfPHeader />
                   </div>
                   <div className="col-lg-5 mt-6">
                     <h1 className="h1-mktg mb-3">{t('search:need_help')}</h1>
