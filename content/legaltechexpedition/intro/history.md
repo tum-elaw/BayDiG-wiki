@@ -24,7 +24,7 @@ Dem Begriff kann man sich von verschiedenen Seiten nähern. Die häufig zu finde
 
 Zunächst kann zwischen Legal Tech im engeren und im weiteren Sinne unterschieden werden. Legal Tech im weiteren Sinne erfasst dabei eher allgemeine Anwendungen von Technik im Recht wie zum Beispiel die automatisierten Erstellung von Rechtstexten oder auch die automatisierte Bearbeitung von einfach durchzuführenden Massenverfahren. Legal Tech im engeren Sinne bezieht sich dagegen mehr auf den Technologieeinsatz im Arbeitsumfeld eines Anwalts. Als Beispiele dafür könnte die automatisierte Rechtsberatung oder auch Anwalts-Chatbots genannt werden. 
 
-Des Weiteren lassen sich verschiedene Kernelemente von Legal Tech isolieren, wie Professor Heckmann im genannten Video darstellt. Diese sind:
+Des Weiteren lassen sich verschiedene Kernelemente von Legal Tech isolieren, wie Prof. Dr. Heckmann im genannten Video darstellt. Diese sind:
 - Anwendungen zur Unterstützung der anwaltlichen Arbeit (z. B. Software zur Dokumentenverwaltung, Kanzleiverwaltung, Online-Datenbanken)
 - (Teil-)Automatisierung juristischer Arbeit in einzelnen Bereichen (z. B. Dokumentenanalyse-Tools, Vertragsgeneratoren oder Chatbots)
 - Plattformen zur Vernetzung von Anwälten untereinander oder mit Mandanten (z. B. Anwaltsmarktplätze, Kollaborationsnetzwerke)
