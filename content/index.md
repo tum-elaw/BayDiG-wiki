@@ -21,7 +21,7 @@ children:
 externalProducts:
   cli:
     id: cli
-    name: TUM GOV
+    name: TUM GOV Department
     href: 'https://cli.github.com/manual'
     external: true
   atom:
