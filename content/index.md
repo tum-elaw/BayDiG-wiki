@@ -18,6 +18,7 @@ children:
   - policytopics
   - courses
   - glrecht
+  - legaltechexpedition
 externalProducts:
   cli:
     id: cli
