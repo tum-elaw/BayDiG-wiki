@@ -1,6 +1,6 @@
 ---
-title: Einführung
-shortTitle: Einführung
+title: Legal Tech in der Praxis
+shortTitle: Legal Tech in der Praxis
 intro: 'Introduction to code security with {% data variables.product.product_name %}.'
 versions:
   fpt: '*'

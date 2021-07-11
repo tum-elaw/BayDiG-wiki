@@ -47,7 +47,6 @@ topics:
   - Vulnerabilities
 children:
   - /intro
-  - /bundestag
-  - /euparlament
+  - /praxis
 ---
 

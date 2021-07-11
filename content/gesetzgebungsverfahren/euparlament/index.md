@@ -15,8 +15,6 @@ topics:
   - Code scanning
   - CodeQL
 children:
-  - /automatically-scanning-your-code-for-vulnerabilities-and-errors
-  - /integrating-with-code-scanning
-  - /using-codeql-code-scanning-with-your-existing-ci-system
+  - copyright
 ---
 <!--For this article in earlier GHES versions, see /content/github/finding-security-vulnerabilities-and-errors-in-your-code-->
