@@ -11,7 +11,7 @@ topics:
   - Dependencies
   - Vulnerabilities
 children:
-  - /intro
+  - /buisnessmodels
   - /medienkompendium
   - /video1
   - /podcast1
