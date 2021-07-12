@@ -109,4 +109,4 @@ Für Start-Ups und Unternehmen, die sich keine eigene Rechtsabteilung leisten k�
 ## C. Legal Tech Angebote für den Rechtsmarkt und Office Tech
 Abgesehen von oben genannten Angeboten gibt es noch viele mehr, die sich der Erleichterung juristischer Arbeit im Unternehmen verschrieben haben und gewissermaßen „Softwarelösungen für JuristInnen“ und Kanzleien anbieten, z.B. busylamp, rfrnz und lecare oder im Recruiting-Bereich legalhead. Ihre Relevanz ist aber im Gegensatz zu oben diskutierten Beispielen eher branchenintern und damit für Nicht-JuristInnen weniger interessant. Auch im Justizbereich wird zur Unterstützung von RichterInnen an Legal Tech Anwendungen mit dem Einsatz von KI gearbeitet, so z.B. JustizMemoria von IBM. 
 
-**Autorin:** Lisa Buziek (Wissenschaftl)
+**Autorin:** Lisa Buziek (Wissenschaftliche Mitarbeiterin)
