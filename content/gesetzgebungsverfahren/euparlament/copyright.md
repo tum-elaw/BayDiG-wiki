@@ -13,7 +13,7 @@ topics:
   - Advanced Security
 ---
 
-## Expose
+## Exposé
 
 Am siebten Juni ist in Deutschland die neue Urheberrechtsreform in Kraft getreten.
 Das Gesetz soll dafür sorgen Urheberrechtsverletzungen im Internet zu verhindern und allgemeine Rechtssicherheit schaffen.
@@ -45,6 +45,11 @@ Wahrscheinlich müssen wir uns hierbei auf eine Plattform wie zum Beispiel Youtu
  
 Wir richten uns dabei an jede, die sich für Kreativität, Innovation und Zensur von Medienschaffenden im Internet interessieren. In erster Linie werden wir uns auf den rechtlichen Raum der Bundesrepublik Deutschlands beschränken. Allerdings sind einige Themen übergreifend relevant.
 Technische Kenntnisse sind für das verstehen unseres Policy Papers explizit nicht vorausgesetzt.
+
+## Präsentation des Exposés am 14.07.2021
+Slides als PDF
+
+<a href="https://syncandshare.lrz.de/dl/fiPSyaCYmuXKKVTYwib5QVn1/Expose%20Urheberrechtsreform%20%283%29.pdf?inline" target="_blank">![PDF Vorschau](/assets/images/gesetzgebung/expp.png)</a>
 
 ## Further reading
 - "[{% data variables.product.prodname_dotcom %}'s products](/github/getting-started-with-github/githubs-products)"

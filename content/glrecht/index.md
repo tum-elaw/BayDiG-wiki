@@ -14,5 +14,6 @@ children:
   - /begriff
   - /quellen
   - /guides
+  - /faq
 ---
 
