@@ -33,7 +33,7 @@ Technologie kommt in der Rechtsbranche sehr stark bei der Dokumentenerstellung u
 *Schlagworte: Automatisierte Erstellung / Aktualisierung / Intelligente Vorlagen*
 
 ### 3. Unterstützende Tätigkeiten
-Viele Legal Tech Tools zielen auf die Unterstützung des Anwaltes ab. Dabei reicht die Bandbreite der Arbeiten von einfacher nicht juristischer Arbeit wie Mandantenkommunikation bis hinzu Unterstützung bei rechtlicher Beratung, etwa durch Entscheidungsbäume oder Expertensysteme. Auch Plattformen die Anwälten untereinander oder mit Mandaten vernetzen sind möglich (Kollaborationsnetzwerke, Anwaltsmarktplätze)
+Viele Legal Tech Tools zielen auf die Unterstützung des Anwaltes ab. Dabei reicht die Bandbreite der Arbeiten von einfacher nicht juristischer Arbeit wie Mandantenkommunikation bis hinzu Unterstützung bei rechtlicher Beratung, etwa durch Entscheidungsbäume oder Expertensysteme. Auch Plattformen, die Anwälte untereinander oder mit Mandaten vernetzen sind möglich. (Kollaborationsnetzwerke, Anwaltsmarktplätze)
 
 *Schlagworte: Entscheidungsbäume / Abfragetools / Expertensysteme / Arbeitsunterstützung / Mandantenkontakt*
 
