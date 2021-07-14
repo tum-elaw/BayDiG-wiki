@@ -16,7 +16,9 @@ versions: '*'
 children:
   - gesetzgebungsverfahren
   - policytopics
+  - tools
   - courses
+  - internal
   - glrecht
   - legaltechexpedition
 externalProducts:

@@ -12,6 +12,7 @@ children:
   - /umwelt
   - /bildung
   - /wirtschaft
+  - /justiz
   - /finanzen
 ---
 
