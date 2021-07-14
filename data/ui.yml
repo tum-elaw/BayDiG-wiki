@@ -67,8 +67,8 @@ survey:
   not_support: If you need a reply, please contact support instead.
   privacy_policy: Privacy policy
 contribution_cta:
-  title: Help us make this script great!
-  body: These scripts are open source. See something that's wrong or unclear? Submit a pull request.
+  title: Help us make this great!
+  body: These articles are open source. See something that's wrong or unclear? Submit a pull request.
   button: Make a contribution
   or: Or,
   to_guidelines: learn how to contribute.

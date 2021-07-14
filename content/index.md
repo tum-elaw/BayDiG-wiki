@@ -21,6 +21,7 @@ children:
   - internal
   - glrecht
   - legaltechexpedition
+  - pages
 externalProducts:
   cli:
     id: cli

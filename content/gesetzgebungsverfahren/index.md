@@ -1,7 +1,8 @@
 ---
 title: Laufende Gesetzgebungsverfahren
 shortTitle: Laufende Gesetzgebungsverfahren
-intro: 'Build security into your {% data variables.product.prodname_dotcom %} workflow with features to keep secrets and vulnerabilities out of your codebase{% ifversion not ghae %}, and to maintain your software supply chain{% endif %}.'
+intro: 'Die Hochschule für Politik ist darüber hinaus eine Begegnungsstätte von Politikwissenschaft und politischer Praxis. - HfPGesetz §2 Abs. 1 Satz 4. Diese Aufgabe erfüllt sie mit besonderer Ausrichtung auf die Wechselwirkungen zwischen Politik, Gesellschaft, Wirtschaft und Technik insbesondere durch [...]
+3. anwendungsorientierte Politikberatung (Satz 3)'
 introLinks:
   overview: /code-security/getting-started/github-security-features
 featuredLinks:

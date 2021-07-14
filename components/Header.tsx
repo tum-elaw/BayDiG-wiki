@@ -20,10 +20,11 @@ export const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
   const showVersionPicker =
-    relativePath === 'index.md' ||
+        relativePath == 'iwqsqwsqws.md'
+   /* relativePath === 'index.md' ||
     currentLayoutName === 'product-landing' ||
     currentLayoutName === 'product-sublanding' ||
-    currentLayoutName === 'release-notes'
+    currentLayoutName === 'release-notes'                     commented out to remove version Picker*/
 
   return (
     <div className="border-bottom color-border-secondary no-print">

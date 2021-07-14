@@ -1,6 +1,6 @@
 ---
-title: GitHub Pages Documentation
-shortTitle: GitHub Pages
+title: Nicht-gelistete Artikel
+shortTitle: Freiartikel
 intro: 'You can create a website directly from a {% data variables.product.product_name %} repository.'
 redirect_from:
   - /categories/20/articles/
@@ -19,8 +19,6 @@ versions:
 topics:
   - Pages
 children:
-  - /getting-started-with-github-pages
-  - /setting-up-a-github-pages-site-with-jekyll
-  - /configuring-a-custom-domain-for-your-github-pages-site
+  - testarticle
 ---
 

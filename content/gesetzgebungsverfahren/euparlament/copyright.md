@@ -54,3 +54,5 @@ Slides als PDF
 ## Further reading
 - "[{% data variables.product.prodname_dotcom %}'s products](/github/getting-started-with-github/githubs-products)"
 - "[{% data variables.product.prodname_dotcom %} language support](/github/getting-started-with-github/github-language-support)"
+
+**Autor:** [Michael Bressler](https://bressler.xyz)
