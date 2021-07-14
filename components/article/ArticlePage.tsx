@@ -29,13 +29,13 @@ export const ArticlePage = () => {
         <article className="markdown-body">
           <div className="d-lg-flex flex-justify-between">
             <div className="d-block d-lg-none">
-              <ArticleVersionPicker />
+             { /* <ArticleVersionPicker />  disabled Version Picker*/ }
             </div>
             <div className="d-flex flex-items-center">
               <Breadcrumbs />
             </div>
             <div className="d-none d-lg-block">
-              <ArticleVersionPicker />
+             {/*} <ArticleVersionPicker /> disabled Version Picker */ }
             </div>
           </div>
 

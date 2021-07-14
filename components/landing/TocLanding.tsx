@@ -17,13 +17,13 @@ export const TocLanding = () => {
       <div className="container-xl px-3 px-md-6 my-4 my-lg-4">
         <div className="d-lg-flex flex-justify-between">
           <div className="d-block d-lg-none">
-            <ArticleVersionPicker />
+          {/*  <ArticleVersionPicker />  disabled Version Picker */}
           </div>
           <div className="d-flex flex-items-center">
             <Breadcrumbs />
           </div>
           <div className="d-none d-lg-block">
-            <ArticleVersionPicker />
+            { /* <ArticleVersionPicker /> disabled Version Picker */}
           </div>
         </div>
 
