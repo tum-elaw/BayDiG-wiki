@@ -13,6 +13,7 @@ topics:
 children:
   - /hybridclassroom
   - /markdown
+  - /mdcheat
   - ub
 ---
 This section of the documentation is intended to get you up-and-running with
