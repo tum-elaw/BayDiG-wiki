@@ -1,5 +1,5 @@
 ---
-title: Markdown CheatSheet
+title: Markdown Cheatsheet
 intro: 'Cheatsheet for Markdown'
 redirect_from:
   - /guides/getting-started/
