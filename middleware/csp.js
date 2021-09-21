@@ -13,7 +13,8 @@ module.exports = function csp (req, res, next) {
       connectSrc: [
         "'self'",
         '*.algolia.net',
-        '*.algolianet.com'
+        '*.algolianet.com',
+        'localhost'
       ],
       fontSrc: [
         "'self'",
@@ -43,7 +44,8 @@ module.exports = function csp (req, res, next) {
         'https://graphql-explorer.githubapp.com', // production env
         'https://graphql.github.com/',
         'http://localhost:3000', // development env
-        'https://www.youtube-nocookie.com'
+        'https://www.youtube-nocookie.com',
+        'http://localhost'
       ],
       styleSrc: [
         "'self'",

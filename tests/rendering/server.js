@@ -112,6 +112,8 @@ describe('server', () => {
 
     expect(csp.get('style-src').includes("'self'")).toBe(true)
     expect(csp.get('style-src').includes("'unsafe-inline'")).toBe(true)
+
+    expect(csp.get('default-src').includes('*.localhost')).toBe(true)
   })
 
   test('sets Fastly cache control headers to bypass pages', async () => {
