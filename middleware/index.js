@@ -94,6 +94,9 @@ module.exports = function (app) {
 
   // *** Security ***
   app.use(cors)
+  
+
+  
   app.use(helmet({
     // Override referrerPolicy to match the browser's default: "strict-origin-when-cross-origin".
     // Helmet now defaults to "no-referrer", which is a problem for our archived assets proxying.
@@ -101,6 +104,9 @@ module.exports = function (app) {
       policy: 'strict-origin-when-cross-origin'
     }
   }))
+
+
+
   app.use(csp) // Must come after helmet
   app.use(cookieParser) // Must come before csrf
   app.use(express.json()) // Must come before csrf
