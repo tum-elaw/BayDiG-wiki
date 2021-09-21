@@ -96,14 +96,14 @@ module.exports = function (app) {
   app.use(cors)
   
 
-  
-  app.use(helmet({
+//   ******** HELMET DISABLED BY COMMENT TO ALLOW IFRAMES OF THIS SITE ******
+  //app.use(helmet({
     // Override referrerPolicy to match the browser's default: "strict-origin-when-cross-origin".
     // Helmet now defaults to "no-referrer", which is a problem for our archived assets proxying.
-    referrerPolicy: {
-      policy: 'strict-origin-when-cross-origin'
-    }
-  }))
+ //   referrerPolicy: {
+ //     policy: 'strict-origin-when-cross-origin'
+ //   }
+ // }))
 
 
 
