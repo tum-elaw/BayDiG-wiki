@@ -27,7 +27,7 @@ There's no easier way to kick the tires than through [cURL][curl].{% ifversion f
 an alternative client, note that you are required to send a valid
 [User Agent header](/rest/overview/resources-in-the-rest-api#user-agent-required) in your request.{% endif %}
 
-### Hello World
+# Markdown Cheatsheet
 
 Let's start by testing our setup. Open up a command prompt and enter the
 following command:
