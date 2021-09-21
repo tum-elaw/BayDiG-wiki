@@ -45,7 +45,7 @@ module.exports = function csp (req, res, next) {
         'https://graphql.github.com/',
         'http://localhost:3000', // development env
         'https://www.youtube-nocookie.com',
-        'http://localhost'
+        'http://localhost:8080'
       ],
       styleSrc: [
         "'self'",
