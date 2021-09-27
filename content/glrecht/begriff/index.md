@@ -9,7 +9,8 @@ versions:
 topics:
   - API
 children:
-  - /begriff
-  - /funktionen
+  - bgintro
+  - begriff
+  - funktionen
 ---
 
