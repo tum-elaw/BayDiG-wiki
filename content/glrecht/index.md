@@ -11,9 +11,11 @@ versions:
   ghes: '*'
   ghae: '*'
 children:
+  - /start
   - /begriff
   - /quellen
   - /guides
   - /faq
+  - /impressum
 ---
 

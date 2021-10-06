@@ -1,5 +1,5 @@
 ---
-title: Libraries
+title: Funktionen des Rechts
 intro: 'You can use the official Octokit library and other third-party libraries to extend and simplify how you use the {% data variables.product.prodname_dotcom %} API.'
 redirect_from:
   - /libraries/

@@ -1,5 +1,5 @@
 ---
-title: Geschichte des Rechts
+title: "1.2 Geschichte des Rechts"
 intro: "Eine Kurzzusammenfassung"
 redirect_from:
   - /v3/previews
@@ -38,3 +38,10 @@ unterschiedlich	ist.
 ## Referenzen
 
 <a name="footnote1">[1]</a> Fund von steinernen Gesetzestafeln in 1884 in Gortyn auf Kreta [Wikipedia](https://de.wikipedia.org/wiki/Stadtrecht_von_Gortys)
+
+
+
+ #### Autor
+>**Pascal Bronner**   
+>Wissenschaftlicher Mitarbeiter   
+>pascal.bronner@tum.de   

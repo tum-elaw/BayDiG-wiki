@@ -1,6 +1,6 @@
 ---
-title: Begriff des Rechts
-intro: "Modul 1: Begriff und Funktionen des Rechts"
+title: 1.1 Begriff des Rechts
+intro: "Zum Begriff und zur Rechtsphilosophie"
 redirect_from:
   - /v3/previews
 versions:
@@ -29,3 +29,10 @@ unterschiedlich	ist.
 ## Häufig gestellte Fragen
 
 ### Wieso ist das so und so?
+Hierzu gibt es verschiedene Antworten. Herzlichen Dank.
+
+ #### Autor
+>**Pascal Bronner**   
+>Wissenschaftlicher Mitarbeiter   
+>pascal.bronner@tum.de   
+
