@@ -1,6 +1,6 @@
 ---
-title: Begriff des Rechts
-intro: "Modul 1: Begriff und Funktionen des Rechts"
+title: Geschichte des Rechts
+intro: "Eine Kurzzusammenfassung"
 redirect_from:
   - /v3/previews
 versions:
@@ -10,8 +10,13 @@ versions:
 topics:
   - API
 ---
-## Der Begriff des Rechts in der Rechtsphilosophie
-![rephilo](/assets/images/glrecht/rephilo.png)
+
+## Anfänge des Rechts und Rolle der Römer
+![tafeln](/assets/images/glrecht/tafeln.png)
+
+Ähnlich wie es bereits vor der Linguistik Sprache gab, gab es vor der Rechtswissenschaft schon geltendes Recht. Doch wie genau haben sich die ersten, niedergeschriebenen Rechtsordnungen entwickelt? (postives Rechts)
+
+Auch wenn neuere Funde der Archäologie belegen, dass es bereits in der griechischen Frühzeit vereinzelte Rechtsordnungen gegeben haben muss [[1]](#footnote1), wird die Entstehung des positiven Rechts hervorgehoben mit der Entstehung des Römischen Rechts assoziiert.
 
 Die	 Idealvorstellung,	 dass	 sich	 positives	 und	 moralisches	 Recht	decken, ist	schwer	zu	erreichen,	da	diese	sich	oft	unterscheiden:	Es	ist	 nicht	 immer	 alles **legal**,	 was	 wir	 moralisch	 für	 **richtig**	 halten	 und	gleichzeitig	ist	auch	nicht	immer	alles,	was	wir	moralisch	 für	**richtig** halten,	 **geltendes Gesetz**. Dies	 liegt	 durchaus	 auch	 daran,	 dass	 das subjektive	 Rechtsempfinden	 jedes	 einzelnen	 Menschen	
 unterschiedlich	ist.
@@ -29,3 +34,7 @@ unterschiedlich	ist.
 ## Häufig gestellte Fragen
 
 ### Wieso ist das so und so?
+
+## Referenzen
+
+<a name="footnote1">[1]</a> Fund von steinernen Gesetzestafeln in 1884 in Gortyn auf Kreta [Wikipedia](https://de.wikipedia.org/wiki/Stadtrecht_von_Gortys)
