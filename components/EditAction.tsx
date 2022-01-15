@@ -8,8 +8,8 @@ export const Contribution = () => {
   const { t } = useTranslation('contribution_cta')
 
   const contributionHref = relativePath
-    ? `https://github.com/michael-eu/tumgovwiki/edit/main/content/${relativePath}`
-    : 'https://github.com/michael-eu/tumgovwiki'
+    ? `https://github.com/mibressler/tumgovwiki/edit/main/content/${relativePath}`
+    : 'https://github.com/mibressler/tumgovwiki'
 
   return (
           <a href={contributionHref}>
