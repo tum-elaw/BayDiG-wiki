@@ -1,5 +1,5 @@
 header:
-  github_docs: TUM GOV Wiki
+  github_docs: Wiki BayDiG
   contact: Contact
   notices:
     ghae_silent_launch: GitHub AE is currently under limited release. Please <a href="https://enterprise.github.com/contact">contact our Sales Team</a> to find out more.
@@ -27,8 +27,8 @@ release_notes:
   banner_text_current: These changes will roll out over the next one week.
   banner_text_past: These changes rolled out to enterprises during the week of
 search:
-  need_help: Res Publica
-  placeholder: Search topics, courses...
+  need_help: Wiki für das bayerische Digitalgesetz
+  placeholder: Suche nach Inhalten, Paragraphen...
 homepage:
   explore_by_product: Explore
   version_picker: Version

@@ -11,8 +11,8 @@ type Props = {
 export const ArticleTitle = ({ children }: Props) => {
         const { relativePath } = useMainContext()
         const contributionHref = relativePath
-        ? `https://github.com/mibressler/tumgovwiki/edit/main/content/${relativePath}`
-        : 'https://github.com/mibressler/tumgovwiki'
+        ? `https://github.com/tum-elaw/baydig-wiki/edit/main/content/${relativePath}`
+        : 'https://github.com/tum-elaw/baydig-wiki'
 
   return (
     <div className="d-flex flex-items-baseline flex-justify-between">

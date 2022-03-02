@@ -14,34 +14,27 @@ featuredLinks:
     - /github/working-with-github-pages
 versions: '*'
 children:
-  - gesetzgebungsverfahren
-  - policytopics
-  - tools
-  - courses
-  - internal
-  - glrecht
-  - legaltechexpedition
-  - pages
+  - artikel
 externalProducts:
-  cli:
-    id: cli
-    name: TUM GOV Department
-    href: 'https://cli.github.com/manual'
+  codeql:
+    id: codeql
+    name: Bayerisches Digitalgesetz
+    href: 'https://www.stmd.bayern.de/service/gesetz-und-verordnungsentwuerfe/'
     external: true
   atom:
     id: atom
-    name: TUM GOV Today
-    href: 'https://atom.io/docs'
+    name: TUM CDPS
+    href: 'https://www.tum-cdps.de/'
+    external: true
+  cli:
+    id: cli
+    name: Lehrstuhl für Recht und Sicherheit der Digitalisierung
+    href: 'https://www.gov.tum.de/elaw/startseite/'
     external: true
   electron:
     id: electron
-    name: Landtag.today
-    href: 'https://electronjs.org/docs'
-    external: true
-  codeql:
-    id: codeql
-    name: Politik.dev
-    href: 'https://codeql.github.com/docs'
+    name: Digitalministerium
+    href: 'https://www.stmd.bayern.de/'
     external: true
 ---
 
