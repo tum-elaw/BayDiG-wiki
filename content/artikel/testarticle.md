@@ -8,12 +8,5 @@ versions:
 shortTitle: Einführung
 ---
 
-{% data reusables.package_registry.packages-ghes-release-stage %}
-{% data reusables.package_registry.packages-ghae-release-stage %}
 
-You can find example workflows in "[Publishing and installing a package with {% data variables.product.prodname_actions %}](/packages/managing-github-packages-using-github-actions-workflows/publishing-and-installing-a-package-with-github-actions)" or in any of these {% data variables.product.prodname_actions %} guides:
-
-  - [Publishing Node.js packages](/actions/guides/publishing-nodejs-packages)
-  - [Publishing Docker images](/actions/guides/publishing-docker-images)
-  - [Publishing Java packages with Maven](/actions/guides/publishing-java-packages-with-maven)
-  - [Publishing Java packages with Gradle](/actions/guides/publishing-java-packages-with-gradle)
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
