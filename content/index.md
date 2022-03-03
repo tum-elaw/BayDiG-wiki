@@ -16,6 +16,11 @@ versions: '*'
 children:
   - artikel
 externalProducts:
+  qa:
+    id: qa
+    name: Q&A
+    href: 'https://github.com/tum-elaw/BayDiG-wiki/discussions/categories/q-a'
+    external: true
   codeql:
     id: codeql
     name: Bayerisches Digitalgesetz
