@@ -43,7 +43,8 @@ export const Header = () => {
           )}
 
           <div className="py-2">
-            <LanguagePicker />
+            {/*<LanguagePicker />                            commented out to remove Language Picker */}
+            <spacer type="block" width="100" height="100" align> Lehrstuhl für Recht und Sicherheit der Digitalisierung</spacer>
           </div>
 
           {/* <!-- GitHub.com homepage and 404 page has a stylized search; Enterprise homepages do not --> */}

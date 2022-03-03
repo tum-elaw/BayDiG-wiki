@@ -30,11 +30,11 @@ search:
   need_help: Wiki für das bayerische Digitalgesetz
   placeholder: Suche nach Inhalten, Paragraphen...
 homepage:
-  explore_by_product: Explore
+  explore_by_product: Entdecken
   version_picker: Version
 toc:
-  getting_started: Getting started
-  popular: Popular
+  getting_started: Einstieg
+  popular: Populär
   guides: Guides
   whats_new: What's new
 pages:
@@ -47,11 +47,11 @@ errors:
   we_track_errors: We track these errors automatically, but if the problem persists please feel free to contact us.
   page_doesnt_exist: It looks like this page doesn't exist.
 support:
-  still_need_help: Need help?
-  contact_support: Contact Site Admin
-  ask_community: Join our GOV Discord Community
+  still_need_help: Hilfe?
+  contact_support: Kontaktiere Wikiadmin
+  ask_community: Rocketchat zur Wikientwicklung
 survey:
-  able_to_find: Did this doc help you?
+  able_to_find: Wie findest du dieses Wiki?
   yes: Yes
   no: No
   yes_feedback: We're continually improving our docs. We'd love to hear what we do well.
@@ -67,11 +67,11 @@ survey:
   not_support: If you need a reply, please contact support instead.
   privacy_policy: Privacy policy
 contribution_cta:
-  title: Help us make this great!
-  body: These articles are open source. See something that's wrong or unclear? Submit a pull request.
-  button: Make a contribution
-  or: Or,
-  to_guidelines: learn how to contribute.
+  title: Hilf uns das Wiki zu verbessern!
+  body: Diese Artikel sind open source. Dir ist etwas falsches oder unklares aufgefallen? Reiche eine Änderung ein.
+  button: Trage etwas bei
+  or: Oder,
+  to_guidelines: lerne wie du etwas beitragen kannst.
 products:
   graphql:
     reference:
