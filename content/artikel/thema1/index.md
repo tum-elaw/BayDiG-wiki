@@ -1,6 +1,6 @@
 ---
 title: Managing billing for Git Large File Storage
-shortTitle: Thema 1
+shortTitle: Digitalisierung
 intro: 'You can view usage for, upgrade, and downgrade {% data variables.large_files.product_name_long %}.'
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-git-large-file-storage
