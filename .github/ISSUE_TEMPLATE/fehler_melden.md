@@ -1,9 +1,9 @@
 ---
-name: Inhaltlichen Fehler oder Verbesserungsvorschlag
+name: Inhaltlicher Fehler oder Verbesserungsvorschlag
 about: Inhaltlichen Fehler melden oder Verbesserungschvorschlag machen.
 title: ''
 labels:
-- content
+- Fehler oder Verbesserungsvorschlag
 assignees: ''
 ---
 <!--
