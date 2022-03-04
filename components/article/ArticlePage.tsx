@@ -151,7 +151,7 @@ export const ArticlePage = () => {
                     mapping="title"
                     reactionsEnabled="1"
                     emitMetadata="0"
-                    theme="light"
+                    theme="preferred_color_scheme"
                     lang="de"
                   />
           {currentLearningTrack?.trackName ? (
