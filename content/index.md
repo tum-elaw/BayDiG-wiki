@@ -5,6 +5,7 @@ featuredLinks:
     - /artikel/testarticle
   popular:
     - /artikel/thema1/beitrag1
+    - /artikel/thema1/beitrag1
 versions: '*'
 children:
   - artikel
