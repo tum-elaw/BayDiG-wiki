@@ -49,7 +49,8 @@ errors:
 support:
   still_need_help: Hilfe?
   contact_support: Kontaktiere Wikiadmin
-  ask_community: Rocketchat zur Wikientwicklung
+  ask_community: Discord Community zur Wikientwicklung
+  qna: Q&A
 survey:
   able_to_find: Wie findest du dieses Wiki?
   yes: Yes
