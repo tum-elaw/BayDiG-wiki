@@ -72,42 +72,10 @@ function LandingPage(props: LandingPageProps) {
         </Search>
       </section>
 
-      {/* <!-- Explore by product --> */}
-      <section className="container-xl pb-lg-4 my-8 px-3 px-md-6">
-        <div className="">
-          <h2 className="text-mono f5 text-normal color-text-secondary text-md-center mb-4">
-            {t('explore_by_product')}
-          </h2>
-          <div className="d-flex flex-wrap gutter gutter-xl-spacious">
-            {activeProducts.map((product) => {
-              if (!isFPT && !product.versions?.includes(currentVersion) && !product.external) {
-                return null
-              }
 
-              const href = `${!product.external ? `/${router.locale}` : ''}${
-                product.versions?.includes(currentVersion) && !isFPT
-                  ? `/${currentVersion}/${product.id}`
-                  : product.href
-              }`
-              return (
-                <div className="d-flex flex-column col-12 col-sm-6 col-lg-3 pb-4" key={product.id}>
-                  <a
-                    className="btn-mktg flex-auto d-flex flex-items-center btn-outline-mktg btn-large-mktg ws-normal "
-                    href={href}
-                    target={product.external ? '_blank' : undefined}
-                  >
-                    {product.name}
-                    {product.external && (
-                      <span className="ml-1">
-                        <LinkExternalIcon />
-                      </span>
-                    )}
-                  </a>
-                </div>
-              )
-            })}
-          </div>
-        </div>
+      {/* <!-- Explore by product -->      REMOVED siehe altes TUMGOVWIKI */}
+      <section className="container-xl pb-lg-4 my-1 px-3 px-md-6">
+        
       </section>
 
       <div className="px-3 px-md-6 container-xl">
@@ -130,6 +98,8 @@ function LandingPage(props: LandingPageProps) {
     </div>
   )
 }
+
+
 
 export const getServerSideProps: GetServerSideProps<Props> = async (context) => {
   const req = context.req as any
