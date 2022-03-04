@@ -1,4 +1,3 @@
-
 ---
 name: Neuen Beitrag einreichen
 about: Vorschlag für einen neuen Beitrag einreichen
