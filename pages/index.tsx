@@ -70,6 +70,10 @@ function LandingPage(props: LandingPageProps) {
             )
           }}
         </Search>
+        <a id="ask-community" href="https://chat.tum.de/invite/MxqZgg" target="_blank" className="btn btn-outline mr-4 mt-2">
+        <PeopleIcon size="small" className="octicon mr-1" />
+        {t`ask_community`}
+      </a>
       </section>
 
 
