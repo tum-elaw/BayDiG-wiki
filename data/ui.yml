@@ -48,8 +48,8 @@ errors:
   page_doesnt_exist: It looks like this page doesn't exist.
 support:
   still_need_help: Hilfe?
-  contact_support: Kontaktiere Admin
-  ask_community: Discord Community zur Wikientwicklung
+  contact_support: Administrator kontaktieren
+  ask_community: Discord Community zur Wiki-Entwicklung
   qna: Q&A
 survey:
   able_to_find: Wie findest du dieses Wiki?
