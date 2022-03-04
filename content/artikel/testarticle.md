@@ -1,6 +1,6 @@
 ---
-title: Test Freiartikel
-intro: 'To help you get started with your own custom workflows, review some example workflows for publishing packages.'
+title: Einführung
+intro: 'Einführung in das Wiki zum bayerischen Digitalgesetz'
 versions:
   fpt: '*'
   ghes: '>=2.22'
