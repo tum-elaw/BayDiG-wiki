@@ -4,7 +4,7 @@ featuredLinks:
   gettingStarted:
     - /artikel/testarticle
   popular:
-    - /github/collaborating-with-issues-and-pull-requests/about-pull-requests
+    - /artikel/beitrag1
 versions: '*'
 children:
   - artikel
