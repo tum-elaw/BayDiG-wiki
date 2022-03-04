@@ -17,7 +17,7 @@ export const ProductPicker = () => {
         <div id="current-product" className="d-flex flex-items-center flex-justify-between py-2">
           {/* <!-- Product switcher - GitHub.com, Enterprise Server, etc -->
     <!-- 404 and 500 error layouts are not real pages so we need to hardcode the name for those --> */}
-          <span>{currentProduct?.name || 'All Products'}</span>
+          <span>{currentProduct?.name || 'Alle Inhalte und Links'}</span>
           <ChevronDownIcon size={24} className="arrow ml-md-1" />
         </div>
       </summary>
