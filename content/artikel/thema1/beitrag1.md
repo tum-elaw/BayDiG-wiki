@@ -17,6 +17,9 @@ topics:
   - Digitalisierung
 shortTitle: Digitalisierung im Mobilitätsbereich
 ---
+
+## Intro
+
 ```
 "Der Freistaat Bayern gestaltet und fördert die Digitalisierung im Interesse
 von Bürgern, Gesellschaft und Wirtschaft. 
