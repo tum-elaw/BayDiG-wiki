@@ -140,7 +140,7 @@ product_landing:
   quickstart: Quickstart
   reference: Reference
   overview: Overview
-  guides: Guides
+  guides: Guidesm
   code_examples: Code examples
   search_code_examples: Search code examples
   show_more: Show more
@@ -163,11 +163,11 @@ product_sublanding:
   start_path: Start path
   learning_paths: '{{ productMap[currentProduct].name }} learning paths'
   learning_paths_desc: Learning paths are a collection of guides that help you master a particular subject.
-  guides: '{{ productMap[currentProduct].name }} guides'
-  more_guides: more guides
-  no_result: Sorry, there are no guides that match your filter.
+  guides: '{{ productMap[currentProduct].name }} guid22es'
+  more_guides: Mehr Beiträge
+  no_result: Sorry, es gibt keine Beiträge, die zu deinem Filter passen.
   load_more: Lade mehr tolle Beiträge
-  all_guides: 'All {{ productMap[currentProduct].name }} guides'
+  all_guides: '{{ productMap[currentProduct].name }} o'
   filters:
     type: Typ
     topic: Thema
