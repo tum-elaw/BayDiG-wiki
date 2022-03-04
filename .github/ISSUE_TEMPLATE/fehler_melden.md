@@ -3,7 +3,7 @@ name: Inhaltlicher Fehler oder Verbesserungsvorschlag
 about: Inhaltlichen Fehler melden oder Verbesserungschvorschlag machen.
 title: ''
 labels:
-- Fehler oder Verbesserungsvorschlag
+- 'Fehler oder Verbesserung'
 assignees: ''
 ---
 <!--
