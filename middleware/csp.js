@@ -46,7 +46,8 @@ module.exports = function csp (req, res, next) {
         'http://localhost:3000', // development env
         'https://www.youtube-nocookie.com',
         'http://localhost:8080',
-        'https://slides.com'
+        'https://slides.com',
+        'https://giscus.app'
       ],
       styleSrc: [
         "'self'",
