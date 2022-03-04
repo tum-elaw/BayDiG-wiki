@@ -12,6 +12,7 @@ includeGuides:
   - /actions/guides/building-and-testing-nodejs
   - /actions/guides/building-and-testing-powershell
   - /artikel/thema1/beitrag1
+  - /artikel/thema1/beitrag2
 versions:
   fpt: '*'
   ghes: '*'
