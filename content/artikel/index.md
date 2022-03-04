@@ -1,23 +1,17 @@
 ---
 title: Alle Beiträge
 shortTitle: Alle Beiträge
-intro: 'You can create a website directly from a {% data variables.product.product_name %} repository.'
+intro: 'Übersicht aller Beiträge im Wiki zum bayerischen Digitalgesetz'
 redirect_from:
   - /categories/20/articles/
   - /categories/95/articles/
-  - /categories/github-pages-features/
-  - /pages/
-  - /categories/96/articles/
-  - /categories/github-pages-troubleshooting/
-  - /categories/working-with-github-pages
-  - /github/working-with-github-pages
-product: '{% data reusables.gated-features.pages %}'
+product: 'Entwickelt am Lehrstuhl für Recht und Sicherheit der Digitalisierung (TUM) in Zusammenarbeit mit Studierenden der Hochschule für Politik München (TUM)'
 versions:
   fpt: '*'
   ghes: '*'
   ghae: '*'
 topics:
-  - Pages
+  - artikel
 children:
   - testarticle
   - thema1
