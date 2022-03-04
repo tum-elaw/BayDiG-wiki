@@ -142,6 +142,7 @@ export const ArticlePage = () => {
                 dangerouslySetInnerHTML={{ __html: renderedPage }}
               />
             </div>
+            <div class="no-print">
             <Giscus
                     repo="tum-elaw/baydig-wiki"
                     repoId="R_kgDOG7uxDw"
@@ -153,6 +154,7 @@ export const ArticlePage = () => {
                     theme="preferred_color_scheme"
                     lang="de"
                   />
+                  </div>
           </div>
                           
           {currentLearningTrack?.trackName ? (
