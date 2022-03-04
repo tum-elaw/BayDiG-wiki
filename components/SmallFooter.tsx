@@ -12,11 +12,14 @@ export const SmallFooter = () => {
             <img src="assets/images/site/govlogo.png" width="18px"></img>
             <div style={{marginLeft: 1 + 'em'}}><span>&copy; {new Date().getFullYear()} Lehrstuhl für Recht und Sicherheit der Digitalisierung</span></div>
           </li>
-          <li className="ml-3">
+          <li className="ml-3 no-print">
             <a href="https://www.gov.tum.de/elaw">{`Bedingungen`}</a>
           </li>
-          <li className="ml-3">
+          <li className="ml-3 no-print">
             <a href="https://www.gov.tum.de/elaw">{`Impressum`} </a>
+          </li>
+          <li className="ml-3">
+            <a href="https://www.gov.tum.de/elaw">{`digitalgesetz.wiki`} </a>
           </li>
         </ul>
       </div>
