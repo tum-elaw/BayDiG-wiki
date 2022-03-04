@@ -4,7 +4,7 @@ featuredLinks:
   gettingStarted:
     - /artikel/testarticle
   popular:
-    - /artikel/beitrag1
+    - /artikel/thema1/beitrag1
 versions: '*'
 children:
   - artikel
