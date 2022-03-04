@@ -10,7 +10,7 @@ import {
 import { DefaultLayout } from 'components/DefaultLayout'
 import { useTranslation } from 'components/hooks/useTranslation'
 import { useVersion } from 'components/hooks/useVersion'
-import { LinkExternalIcon } from '@primer/octicons-react'
+import { LinkExternalIcon, ArrowRightIcon, CommentDiscussionIcon } from '@primer/octicons-react'
 import { useRouter } from 'next/router'
 import { HfPHeader } from 'components/landing/HfPHeader'
 import { ArticleList } from 'components/landing/ArticleList'
@@ -64,16 +64,16 @@ function LandingPage(props: LandingPageProps) {
                     {SearchInput}
                   </div>
                 </div>
-
+                <a id="ask-community" href="/artikel" className="btn btn-outline mr-4 mt-0">
+        <ArrowRightIcon size="small" className="octicon mr-1" />
+        {`Beiträge entdecken`}
+                             </a>
                 <div className="mt-3">{SearchResults}</div>
               </div>
             )
           }}
         </Search>
-        <a id="ask-community" href="https://chat.tum.de/invite/MxqZgg" target="_blank" className="btn btn-outline mr-4 mt-2">
-        <PeopleIcon size="small" className="octicon mr-1" />
-        {t`ask_community`}
-      </a>
+        
       </section>
 
 
