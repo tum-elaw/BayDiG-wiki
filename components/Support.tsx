@@ -1,4 +1,4 @@
-import { PeopleIcon, CommentDiscussionIcon } from '@primer/octicons-react'
+import { PeopleIcon, CommentDiscussionIcon, QuestionIcon } from '@primer/octicons-react'
 
 import { useTranslation } from 'components/hooks/useTranslation'
 import { useVersion } from 'components/hooks/useVersion'
@@ -13,6 +13,10 @@ export const Support = () => {
       <a id="ask-community" href="https://discord.gg/Gk5dVkKs2W" target="_blank" className="btn btn-outline mr-4 mt-2">
         <PeopleIcon size="small" className="octicon mr-1" />
         {t`ask_community`}
+      </a>
+      <a id="qna" href="https://github.com/tum-elaw/BayDiG-wiki/discussions/categories/q-a" target="_blank" className="btn btn-outline mr-4 mt-2">
+        <QuestionIcon size="small" className="octicon mr-1" />
+        {t`qna`}
       </a>
       <a
         id="contact-us"
