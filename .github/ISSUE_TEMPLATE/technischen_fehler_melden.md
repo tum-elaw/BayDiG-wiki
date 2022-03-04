@@ -3,7 +3,7 @@ name: Technischer Fehler
 about: Technischen Fehler oder unglückliche Lösung melden
 title: ''
 labels:
-- Technischer Fehler
+- 'Technischer Fehler'
 assignees: 'mibressler'
 ---
 <!--
