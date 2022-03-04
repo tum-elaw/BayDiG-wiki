@@ -1,5 +1,5 @@
 ---
-title: Digitalisierung im Mobilitätsbereich
+title: Digitalisierung im Mobilitätsbereich2
 intro: 'Digitalisierung im Mobilitätsbereich'
 contributor:
   name: Jonas Hacker
@@ -12,10 +12,10 @@ redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-git-large-file-storage/upgrading-git-large-file-storage
 versions:
   fpt: '*'
-type: overview
+type: how_to
 topics:
-  - Digitalisierung
-shortTitle: Digitalisierung im Mobilitätsbereich
+  - Digital
+shortTitle: Digitalisierung im Mobilitätsbereich2
 ---
 ```
 "Der Freistaat Bayern gestaltet und fördert die Digitalisierung im Interesse
