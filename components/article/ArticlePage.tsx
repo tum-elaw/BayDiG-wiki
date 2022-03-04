@@ -8,6 +8,7 @@ import { useArticleContext } from 'components/context/ArticleContext'
 import { InfoIcon } from '@primer/octicons-react'
 import { useTranslation } from 'components/hooks/useTranslation'
 import { LearningTrackNav } from './LearningTrackNav'
+import { Giscus } from '@giscus/react'
 
 export const ArticlePage = () => {
   const {
