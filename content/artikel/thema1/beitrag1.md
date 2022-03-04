@@ -17,9 +17,7 @@ topics:
   - Digitalisierung
 shortTitle: Digitalisierung im Mobilitätsbereich
 ---
-
 ## Intro
-
 ```
 "Der Freistaat Bayern gestaltet und fördert die Digitalisierung im Interesse
 von Bürgern, Gesellschaft und Wirtschaft. 
@@ -27,7 +25,6 @@ Die Maßnahmen des Freistaates Bayern zielen insbesondere auf (…)  eine stärk
 Nutzung der Möglichkeiten der Digitalisierung imMobilitätsbereich“
 (Art. 2 S. 2 Nr. 4 BayDiG-E).
 ```
-
 Mit dieser Formulierung definiert die Bayerische Staatsregierung in ihrem Entwurf des Bayerischen Digitalgesetzes den Bereich der (vernetzten) Mobilität als eine Zielbestimmung ihrer digitalen Daseinsvorsorge. Unter Digitalisierung wird im Folgenden der „Prozess (…) der auf der intelligenten Vernetzung von Prozessketten und einer durchgängigen Erfassung, Aufbereitung, Analyse und Kommunikation von Daten beruht (…)“ verstanden. Aufgrund der technischen Entwicklungen und Fortschritte der vergangenen Jahrzehnte werden täglich viele Daten und Informationen gesammelt und deren konstruktive und gemeinschaftsdienliche Nutzung soll durch das neue Gesetz erreicht werden, im vorliegenden Kontext im Bereich der Mobilität. Der Fokus liegt dabei auf dem motorisierten Individualverkehr (v.a. Auto) und dabei vor allem im Bereich autonomes Fahren, insgesamt ist der Begriff jedoch weit zu verstehen und so spielen beispielsweise auch der öffentliche Personennahverkehr oder allgemein die intelligente Vernetzung und Steuerung der Verkehrssysteme eine Rolle. Insgesamt ergeben sich bei der Digitalisierung im Mobilitätsbereich eine Reihe von Chancen und Herausforderungen, die insbesondere aus rechtlicher, technischer und politisch-gesellschaftlicher Perspektive beleuchtet werden können.
 
 ## Autonomes Fahren
