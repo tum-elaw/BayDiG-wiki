@@ -13,34 +13,10 @@ export const SmallFooter = () => {
             <div style={{marginLeft: 1 + 'em'}}><span>&copy; {new Date().getFullYear()} Lehrstuhl für Recht und Sicherheit der Digitalisierung</span></div>
           </li>
           <li className="ml-3">
-            <a href="/github/site-policy/github-terms-of-service">{t`terms`}</a>
+            <a href="https://www.gov.tum.de/elaw">{`Bedingungen`}</a>
           </li>
           <li className="ml-3">
-            <a href="/github/site-policy/github-privacy-statement">{t`privacy`} </a>
-          </li>
-          <li className="ml-3">
-            <a href="https://github.com/security">{t`product.links.security`}</a>
-          </li>
-          <li className="ml-3">
-            <a href="https://www.githubstatus.com/">{t`support.links.status`}</a>
-          </li>
-          <li className="ml-3">
-            <a href="/">{t`support.links.help`}</a>
-          </li>
-          <li className="ml-3">
-            <a href="https://support.github.com">{t`support.links.contact_github`}</a>
-          </li>
-          <li className="ml-3">
-            <a href="https://github.com/pricing">{t`product.links.pricing`}</a>
-          </li>
-          <li className="ml-3">
-            <a href="/developers">{t`platform.links.developer_api`}</a>
-          </li>
-          <li className="ml-3">
-            <a href="https://services.github.com/">{t`support.links.training`}</a>
-          </li>
-          <li className="ml-3">
-            <a href="https://github.com/about">{t`company.links.about`}</a>
+            <a href="https://www.gov.tum.de/elaw">{`Impressum`} </a>
           </li>
         </ul>
       </div>
