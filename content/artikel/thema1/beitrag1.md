@@ -1,6 +1,6 @@
 ---
 title: Digitalisierung im Mobilitätsbereich
-intro: '"Der Freistaat Bayern gestaltet und fördert die Digitalisierung im Interesse von Bürgern, Gesellschaft und Wirtschaft. Die Maßnahmen des Freistaates Bayern zielen insbesondere auf (…) eine stärkere Nutzung der Möglichkeiten der Digitalisierung im Mobilitätsbereich“ (Art. 2 S. 2 Nr. 4 BayDiG-E)."'
+intro: 'Digitalisierung im Mobilitätsbereich'
 contributor:
   name: Jonas Hacker
   URL: https://www.gov.tum.de/elaw/team/jonas-hacker/
@@ -12,12 +12,9 @@ redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-git-large-file-storage/upgrading-git-large-file-storage
 versions:
   fpt: '*'
-type: how_to
+type: overview
 topics:
-  - LFS
-  - Organizations
-  - Upgrades
-  - User account
+  - Digitalisierung
 shortTitle: Digitalisierung im Mobilitätsbereich
 ---
 ```

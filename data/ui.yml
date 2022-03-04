@@ -166,18 +166,18 @@ product_sublanding:
   guides: '{{ productMap[currentProduct].name }} guides'
   more_guides: more guides
   no_result: Sorry, there are no guides that match your filter.
-  load_more: Load more guides
+  load_more: Lade mehr tolle Beiträge
   all_guides: 'All {{ productMap[currentProduct].name }} guides'
   filters:
-    type: Type
-    topic: Topic
-    all: All
+    type: Typ
+    topic: Thema
+    all: Alles
   guide_types:
-    overview: Overview
-    quick_start: Quickstart
-    tutorial: Tutorial
-    how_to: How-to guide
-    reference: Reference
+    overview: Essay
+    quick_start: Kommentar
+    tutorial: Zum Gesetz
+    how_to: Fallstudie
+    reference: Referenz
 learning_track_nav:
   prevGuide: Previous guide
   nextGuide: Next guide
