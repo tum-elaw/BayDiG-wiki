@@ -148,7 +148,7 @@ export const ArticlePage = () => {
                     repoId="R_kgDOG7uxDw"
                     category="General"
                     categoryId="DIC_kwDOG7uxD84CN7U1"
-                    mapping="pathname"
+                    mapping="title"
                     reactionsEnabled="1"
                     emitMetadata="0"
                     theme="light"
