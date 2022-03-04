@@ -99,7 +99,7 @@ export const Header = () => {
 
                 <ProductPicker />
               </div>
-
+                
               {/* <!-- Versions picker that only appears in the header on landing pages --> */}
               {showVersionPicker && (
                 <div className="border-top py-2">
@@ -108,9 +108,8 @@ export const Header = () => {
               )}
 
               {/* <!-- Language picker - 'English', 'Japanese', etc --> */}
-              <div className="border-top py-2">
-                <LanguagePicker variant="inline" />
-              </div>
+              
+          
 
               {/* <!-- GitHub.com homepage and 404 page has a stylized search; Enterprise homepages do not --> */}
               {relativePath !== 'index.md' && error !== '404' && (
