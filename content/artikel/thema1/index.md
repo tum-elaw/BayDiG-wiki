@@ -12,5 +12,6 @@ versions:
   fpt: '*'
 children:
   - beitrag1
+  - beitrag2
 ---
 
