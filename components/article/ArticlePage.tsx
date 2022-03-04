@@ -143,19 +143,17 @@ export const ArticlePage = () => {
               />
             </div>
           </div>
-          <script src="https://giscus.app/client.js"
-        data-repo="tum-elaw/baydig-wiki"
-        data-repo-id="R_kgDOG7uxDw"
-        data-category-id="DIC_kwDOG7uxD84CN7U1"
-        data-mapping="pathname"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-          </script>
+                            <Giscus
+                    repo="tum-elaw/baydig-wiki"
+                    repoId="R_kgDOG7uxDw"
+                    category="General"
+                    categoryId="DIC_kwDOG7uxD84CN7U1"
+                    mapping="pathname"
+                    reactionsEnabled="1"
+                    emitMetadata="0"
+                    theme="light"
+                    lang="de"
+                  />
           {currentLearningTrack?.trackName ? (
             <div className="d-block mt-4 markdown-body">
               <LearningTrackNav track={currentLearningTrack} />
