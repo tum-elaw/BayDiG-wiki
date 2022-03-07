@@ -44,7 +44,15 @@ export const Header = () => {
 
           <div className="py-2">
             {/*<LanguagePicker />                            commented out to remove Language Picker */}
-            <p> Lehrstuhl für Recht und Sicherheit der Digitalisierung</p>
+            
+            <svg width="60px" height="32px" viewBox="0 0 740 390" version="1.1">
+
+<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="2015_Logo_TUM_neg_RGB"  fill="#e3e3e3">
+        <path d="M405,9.13352234e-15 L370,2.70412665e-15 L370,320 L290,320 L290,1.5562918e-14 L255,9.13352234e-15 L0,1.35206332e-15 L0,70 L70,70 L70,390 L140,390 L140,70 L220,70 L220,390 L255,390 L405,390 L440,390 L440,70 L520,70 L520,390 L590,390 L590,70 L670,70 L670,390 L740,390 L740,35 L740,1.35206332e-15 L405,1.35206332e-15 Z" id="Rectangle-1"></path>
+    </g>
+</g>
+</svg>
           </div>
 
           {/* <!-- GitHub.com homepage and 404 page has a stylized search; Enterprise homepages do not --> */}
@@ -115,7 +123,9 @@ export const Header = () => {
               {relativePath !== 'index.md' && error !== '404' && (
                 <div className="pt-3 border-top">
                   <Search />
+                  
                 </div>
+                
               )}
             </div>
           </div>

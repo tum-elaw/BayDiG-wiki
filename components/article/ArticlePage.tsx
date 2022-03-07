@@ -37,8 +37,11 @@ export const ArticlePage = () => {
             </div>
             <div className="d-none d-lg-block">
              {/*} <ArticleVersionPicker /> disabled Version Picker */ }
+
             </div>
           </div>
+        
+          
 
           <div className="article-grid-container mt-2">
             <div className="article-grid-head">
