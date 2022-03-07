@@ -73,7 +73,7 @@ function LandingPage(props: LandingPageProps) {
             )
           }}
         </Search>
-        
+     
       </section>
 
 

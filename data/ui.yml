@@ -27,7 +27,8 @@ release_notes:
   banner_text_current: These changes will roll out over the next one week.
   banner_text_past: These changes rolled out to enterprises during the week of
 search:
-  need_help: Wiki für das bayerische Digitalgesetz
+  need_help: Wiki für das bayerische Digitalgesetze
+  sub_title: entwickelt am TUM Center for Digital Public Services und Lehrstuhl für Recht und Sicherheit der Digitalisierung
   placeholder: Suche nach Inhalten, Paragraphen...
 homepage:
   explore_by_product: Entdecken
