@@ -22,17 +22,17 @@ externalProducts:
     external: true
   atom:
     id: atom
-    name: TUM CDPS
+    name: TUM Center for Digital Public Services
     href: 'https://www.tum-cdps.de/'
     external: true
   cli:
     id: cli
     name: Lehrstuhl für Recht und Sicherheit der Digitalisierung
-    href: 'https://www.gov.tum.de/elaw/startseite/'
+    href: 'https://www.gov.sot.tum.de/elaw/startseite/'
     external: true
   electron:
     id: electron
-    name: Digitalministerium
+    name: Bayerisches Staatsministerium für Digitales
     href: 'https://www.stmd.bayern.de/'
     external: true
 ---
