@@ -22,9 +22,11 @@ export const Support = () => {
         id="contact-us"
         href={
           isEnterprise
-            ? 'https://www.gov.tum.de/elaw/team/michael-bressler/'
-            : 'https://www.gov.tum.de/elaw/team/michael-bressler/'
+            ? 'https://www.gov.sot.tum.de/elaw/team/michael-bressler/'
+            : 'https://www.gov.sot.tum.de/elaw/team/michael-bressler/'
+         
         }
+        target="_blank"
         className="btn btn-outline mt-2"
       >
         <CommentDiscussionIcon size="small" className="octicon mr-1" />

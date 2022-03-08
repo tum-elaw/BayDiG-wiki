@@ -3,7 +3,7 @@ title: Digitalisierung im Mobilitätsbereich
 intro: 'Digitalisierung im Mobilitätsbereich'
 contributor:
   name: Jonas Hacker
-  URL: https://www.gov.tum.de/elaw/team/jonas-hacker/
+  URL: https://www.gov.sot.tum.de/elaw/team/jonas-hacker/
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/
