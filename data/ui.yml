@@ -27,7 +27,7 @@ release_notes:
   banner_text_current: These changes will roll out over the next one week.
   banner_text_past: These changes rolled out to enterprises during the week of
 search:
-  need_help: Wiki für das bayerische Digitalgesetze
+  need_help: Wiki für das Bayerische Digitalgesetz
   sub_title: entwickelt am TUM Center for Digital Public Services und Lehrstuhl für Recht und Sicherheit der Digitalisierung
   placeholder: Suche nach Inhalten, Paragraphen...
 homepage:
@@ -50,7 +50,7 @@ errors:
 support:
   still_need_help: Hilfe?
   contact_support: Administrator kontaktieren
-  ask_community: Discord Community zur Wiki-Entwicklung
+  ask_community: TUM-Chat zur Wiki-Entwicklung
   qna: Q&A
 survey:
   able_to_find: Wie findest du dieses Wiki?
