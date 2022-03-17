@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/g9zk6QQfm5AB0ReviUmBi/_buildManifest.js",
-    "static/g9zk6QQfm5AB0ReviUmBi/_ssgManifest.js"
+    "static/xEzEVAnV-Sf19VaYoTJsy/_buildManifest.js",
+    "static/xEzEVAnV-Sf19VaYoTJsy/_ssgManifest.js"
   ],
   "pages": {
     "/": [
@@ -15,7 +15,7 @@
       "static/chunks/main-9fba886f1a0d36fd1a02.js",
       "static/chunks/0e226fb0-f2ab611ab8ea26596be1.js",
       "static/chunks/931-343c5f4de33335080430.js",
-      "static/chunks/977-5cc2a5dc87d256f2621e.js",
+      "static/chunks/977-471374f69cc740fa7a9b.js",
       "static/chunks/512-1d6e2cef23c94743a90e.js",
       "static/chunks/pages/index-c265b3397c1c8cd729e7.js"
     ],
@@ -39,7 +39,7 @@
       "static/chunks/main-9fba886f1a0d36fd1a02.js",
       "static/chunks/0e226fb0-f2ab611ab8ea26596be1.js",
       "static/chunks/931-343c5f4de33335080430.js",
-      "static/chunks/977-5cc2a5dc87d256f2621e.js",
+      "static/chunks/977-471374f69cc740fa7a9b.js",
       "static/chunks/512-1d6e2cef23c94743a90e.js",
       "static/chunks/pages/[versionId]-d62cdb567d0b407c4e9f.js"
     ],
@@ -49,7 +49,7 @@
       "static/chunks/main-9fba886f1a0d36fd1a02.js",
       "static/chunks/0e226fb0-f2ab611ab8ea26596be1.js",
       "static/chunks/931-343c5f4de33335080430.js",
-      "static/chunks/977-5cc2a5dc87d256f2621e.js",
+      "static/chunks/977-471374f69cc740fa7a9b.js",
       "static/chunks/658-643921dc2f1bf114d937.js",
       "static/chunks/pages/[versionId]/[productId]-ff70f2bf1053be985b72.js"
     ],
@@ -59,7 +59,7 @@
       "static/chunks/main-9fba886f1a0d36fd1a02.js",
       "static/chunks/0e226fb0-f2ab611ab8ea26596be1.js",
       "static/chunks/931-343c5f4de33335080430.js",
-      "static/chunks/977-5cc2a5dc87d256f2621e.js",
+      "static/chunks/977-471374f69cc740fa7a9b.js",
       "static/chunks/658-643921dc2f1bf114d937.js",
       "static/chunks/pages/[versionId]/[productId]/[...restPage]-0cc8a923bb824dcf2bf0.js"
     ],
@@ -69,7 +69,7 @@
       "static/chunks/main-9fba886f1a0d36fd1a02.js",
       "static/chunks/0e226fb0-f2ab611ab8ea26596be1.js",
       "static/chunks/931-343c5f4de33335080430.js",
-      "static/chunks/977-5cc2a5dc87d256f2621e.js",
+      "static/chunks/977-471374f69cc740fa7a9b.js",
       "static/chunks/pages/[versionId]/admin/release-notes-ec57e73c783817e4dda6.js"
     ],
     "/[versionId]/graphql/overview/explorer": [
@@ -78,7 +78,7 @@
       "static/chunks/main-9fba886f1a0d36fd1a02.js",
       "static/chunks/0e226fb0-f2ab611ab8ea26596be1.js",
       "static/chunks/931-343c5f4de33335080430.js",
-      "static/chunks/977-5cc2a5dc87d256f2621e.js",
+      "static/chunks/977-471374f69cc740fa7a9b.js",
       "static/chunks/pages/[versionId]/graphql/overview/explorer-ec8b8e0f7aadd0a507d1.js"
     ],
     "/_app": [
