@@ -1,14 +1,21 @@
 (function() {
 var exports = {};
-exports.id = 190;
-exports.ids = [190,405];
+exports.id = 938;
+exports.ids = [938,405];
 exports.modules = {
 
-/***/ 5030:
-/***/ (function(module) {
+/***/ 4173:
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-module.exports = require("@giscus/react");;
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "getServerSideProps": function() { return /* reexport safe */ _index__WEBPACK_IMPORTED_MODULE_0__.getServerSideProps; }
+/* harmony export */ });
+/* harmony import */ var _index__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(512);
+
+
+/* harmony default export */ __webpack_exports__["default"] = (_index__WEBPACK_IMPORTED_MODULE_0__.default);
 
 /***/ }),
 
@@ -57,14 +64,6 @@ module.exports = require("js-cookie");;
 
 "use strict";
 module.exports = require("lodash/debounce");;
-
-/***/ }),
-
-/***/ 1790:
-/***/ (function(module) {
-
-"use strict";
-module.exports = require("lodash/escape");;
 
 /***/ }),
 
@@ -132,14 +131,6 @@ module.exports = require("react/jsx-runtime");;
 
 /***/ }),
 
-/***/ 2802:
-/***/ (function(module) {
-
-"use strict";
-module.exports = require("scroll-anchoring");;
-
-/***/ }),
-
 /***/ 9914:
 /***/ (function(module) {
 
@@ -168,10 +159,10 @@ module.exports = require("uuid");;
 ;
 
 // load runtime
-var __webpack_require__ = require("../../webpack-runtime.js");
+var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-var __webpack_exports__ = __webpack_require__.X(0, [664,143,368,977,201,54,410], function() { return __webpack_exec__(3410); });
+var __webpack_exports__ = __webpack_require__.X(0, [664,143,368,977,201,512], function() { return __webpack_exec__(4173); });
 module.exports = __webpack_exports__;
 
 })();

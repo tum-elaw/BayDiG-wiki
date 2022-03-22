@@ -1,8 +1,23 @@
 (function() {
 var exports = {};
-exports.id = 190;
-exports.ids = [190,405];
+exports.id = 66;
+exports.ids = [66,190,405];
 exports.modules = {
+
+/***/ 1648:
+/***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "getServerSideProps": function() { return /* reexport safe */ _index__WEBPACK_IMPORTED_MODULE_0__.getServerSideProps; }
+/* harmony export */ });
+/* harmony import */ var _index__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(3410);
+
+
+/* harmony default export */ __webpack_exports__["default"] = (_index__WEBPACK_IMPORTED_MODULE_0__.default);
+
+/***/ }),
 
 /***/ 5030:
 /***/ (function(module) {
@@ -168,10 +183,10 @@ module.exports = require("uuid");;
 ;
 
 // load runtime
-var __webpack_require__ = require("../../webpack-runtime.js");
+var __webpack_require__ = require("../../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-var __webpack_exports__ = __webpack_require__.X(0, [664,143,368,977,201,54,410], function() { return __webpack_exec__(3410); });
+var __webpack_exports__ = __webpack_require__.X(0, [664,143,368,977,201,54,410], function() { return __webpack_exec__(1648); });
 module.exports = __webpack_exports__;
 
 })();

@@ -1,16 +1,8 @@
 (function() {
 var exports = {};
-exports.id = 190;
-exports.ids = [190,405];
+exports.id = 405;
+exports.ids = [405];
 exports.modules = {
-
-/***/ 5030:
-/***/ (function(module) {
-
-"use strict";
-module.exports = require("@giscus/react");;
-
-/***/ }),
 
 /***/ 988:
 /***/ (function(module) {
@@ -57,14 +49,6 @@ module.exports = require("js-cookie");;
 
 "use strict";
 module.exports = require("lodash/debounce");;
-
-/***/ }),
-
-/***/ 1790:
-/***/ (function(module) {
-
-"use strict";
-module.exports = require("lodash/escape");;
 
 /***/ }),
 
@@ -132,14 +116,6 @@ module.exports = require("react/jsx-runtime");;
 
 /***/ }),
 
-/***/ 2802:
-/***/ (function(module) {
-
-"use strict";
-module.exports = require("scroll-anchoring");;
-
-/***/ }),
-
 /***/ 9914:
 /***/ (function(module) {
 
@@ -168,10 +144,10 @@ module.exports = require("uuid");;
 ;
 
 // load runtime
-var __webpack_require__ = require("../../webpack-runtime.js");
+var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-var __webpack_exports__ = __webpack_require__.X(0, [664,143,368,977,201,54,410], function() { return __webpack_exec__(3410); });
+var __webpack_exports__ = __webpack_require__.X(0, [664,143,368,977,201,512], function() { return __webpack_exec__(512); });
 module.exports = __webpack_exports__;
 
 })();
