@@ -191,7 +191,7 @@
     "debug": "cross-env NODE_ENV=development ENABLED_LANGUAGES='en,ja' nodemon --inspect server.js",
     "rest-dev": "script/rest/update-files.js && npm run dev",
     "build": "npm run webpack-build && next build",
-    "webpack-build": "cross-env NODE_ENV=production ENABLED_LANGUAGES='en' npx webpack --mode production",
+    "webpack-build": "cross-env NODE_ENV=production NODE_OPTIONS=--openssl-legacy-provider ENABLED_LANGUAGES='en' npx webpack --mode production",
     "start-all-languages": "cross-env NODE_ENV=development nodemon server.js",
     "lint": "eslint '**/*.{js,ts,tsx}' && prettier -w \"**/*.{yml,yaml}\" && npm run lint-tsc",
     "lint-translation": "TEST_TRANSLATION=true jest content/lint-files",
