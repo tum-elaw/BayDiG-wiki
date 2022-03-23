@@ -1,13 +1,5 @@
 {
-  "/404": "pages/404.js",
-  "/500": "pages/500.js",
-  "/[versionId]/[productId]/[...restPage]": "pages/[versionId]/[productId]/[...restPage].js",
-  "/[versionId]/[productId]": "pages/[versionId]/[productId].js",
-  "/[versionId]/admin/release-notes": "pages/[versionId]/admin/release-notes.js",
-  "/[versionId]/graphql/overview/explorer": "pages/[versionId]/graphql/overview/explorer.js",
-  "/[versionId]": "pages/[versionId].js",
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
   "/_error": "pages/_error.js"
 }
