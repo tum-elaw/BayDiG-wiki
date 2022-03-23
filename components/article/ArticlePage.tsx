@@ -145,7 +145,7 @@ export const ArticlePage = () => {
                 dangerouslySetInnerHTML={{ __html: renderedPage }}
               />
             </div>
-            <div className="no-print">
+            <div class="no-print">
             <Giscus
                     repo="tum-elaw/baydig-wiki"
                     repoId="R_kgDOG7uxDw"

@@ -55,7 +55,6 @@
     "js-cookie": "^2.2.1",
     "js-yaml": "^4.1.0",
     "liquidjs": "^9.22.1",
-    "loadsh": "^0.0.4",
     "lodash": "^4.17.21",
     "lunr": "^2.3.9",
     "lunr-languages": "^1.4.0",
@@ -192,7 +191,7 @@
     "debug": "cross-env NODE_ENV=development ENABLED_LANGUAGES='en,ja' nodemon --inspect server.js",
     "rest-dev": "script/rest/update-files.js && npm run dev",
     "build": "npm run webpack-build && next build",
-    "webpack-build": "cross-env NODE_ENV=production ENABLED_LANGUAGES='en' npx webpack --mode production",
+    "webpack-build": "cross-env NODE_ENV=production npx webpack --mode production",
     "start-all-languages": "cross-env NODE_ENV=development nodemon server.js",
     "lint": "eslint '**/*.{js,ts,tsx}' && prettier -w \"**/*.{yml,yaml}\" && npm run lint-tsc",
     "lint-translation": "TEST_TRANSLATION=true jest content/lint-files",
@@ -217,7 +216,7 @@
     "heroku-postbuild": "node script/early-access/clone-for-build.js && npm run build"
   },
   "engines": {
-    "node": "16.13.1"
+    "node": ">= 16.0.0"
   },
   "repository": "https://github.com/github/docs"
 }

@@ -11,10 +11,6 @@ featuredLinks:
   popular:
     - /insights/installing-and-configuring-github-insights/about-data-in-github-insights
     - /insights/exploring-your-usage-of-github-enterprise/metrics-available-with-github-insights
-redirect_from:
-  - /github/installing-and-configuring-github-insights
-versions:
-  ghes: '*'
 children:
   - /installing-and-configuring-github-insights
   - /exploring-your-usage-of-github-enterprise
