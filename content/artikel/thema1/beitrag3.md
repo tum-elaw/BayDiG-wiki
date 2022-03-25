@@ -15,7 +15,7 @@ versions:
 type: how_to
 topics:
   - Digital
-shortTitle: 3
+shortTitle: Art 3
 ---
 ```
 "Der Freistaat Bayern gestaltet und fördert die Digitalisierung im Interesse

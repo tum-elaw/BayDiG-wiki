@@ -15,7 +15,7 @@ versions:
 type: how_to
 topics:
   - Digital
-shortTitle: 8
+shortTitle: Art 8
 ---
 ```
 "Der Freistaat Bayern gestaltet und fördert die Digitalisierung im Interesse
