@@ -3,7 +3,7 @@ title: Digitaler Verbraucherschutz - Art. 2 Nr. 8 BayDiG-E
 intro: 'Digitaler Verbraucherschutz - Art. 2 Nr. 8 BayDiG-E'
 contributor:
   name: Denis Graipel
-  URL: 
+  URL: https://www.tum.de/
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/
