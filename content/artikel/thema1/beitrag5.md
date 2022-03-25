@@ -3,7 +3,7 @@ title: Digitale Geschäftsmodelle - Art. 2 Nr. 9 BayDiG-E
 intro: 'Digitale Geschäftsmodelle - Art. 2 Nr. 9 BayDiG-E'
 contributor:
   name: Denis Graipel
-  URL: 
+  URL: https://www.gov.tum.de/elaw/team/jonas-hacker/
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/
