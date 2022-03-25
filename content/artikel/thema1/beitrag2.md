@@ -1,9 +1,9 @@
 ---
-title: Digitalisierung im Mobilitätsbereich2test
-intro: 'Digitalisierung im Mobilitätsbereich'
+title: Digitale Qualifizierung der Beschäftigten der öffentlichen Verwaltung - Art. 7 BayDiG-E
+intro: 'Digitale Qualifizierung der Beschäftigten der öffentlichen Verwaltung - Art. 7 BayDiG-E'
 contributor:
   name: Jonas Hacker
-  URL: https://www.gov.tum.de/elaw/team/jonas-hacker/
+  URL: https://www.gov.sot.tum.de/elaw/team/julian-hofmann/
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/
@@ -15,31 +15,40 @@ versions:
 type: how_to
 topics:
   - Digital
-shortTitle: Art 2
+shortTitle: Digitale Qualifizierung
 ---
-```
-"Der Freistaat Bayern gestaltet und fördert die Digitalisierung im Interesse
-von Bürgern, Gesellschaft und Wirtschaft. 
-Die Maßnahmen des Freistaates Bayern zielen insbesondere auf (…)  eine stärkere
-Nutzung der Möglichkeiten der Digitalisierung imMobilitätsbereich“
-(Art. 2 S. 2 Nr. 4 BayDiG-E).
-```
 
-Test. Mit dieser Formulierung definiert die Bayerische Staatsregierung in ihrem Entwurf des Bayerischen Digitalgesetzes den Bereich der (vernetzten) Mobilität als eine Zielbestimmung ihrer digitalen Daseinsvorsorge. Unter Digitalisierung wird im Folgenden der „Prozess (…) der auf der intelligenten Vernetzung von Prozessketten und einer durchgängigen Erfassung, Aufbereitung, Analyse und Kommunikation von Daten beruht (…)“ verstanden. Aufgrund der technischen Entwicklungen und Fortschritte der vergangenen Jahrzehnte werden täglich viele Daten und Informationen gesammelt und deren konstruktive und gemeinschaftsdienliche Nutzung soll durch das neue Gesetz erreicht werden, im vorliegenden Kontext im Bereich der Mobilität. Der Fokus liegt dabei auf dem motorisierten Individualverkehr (v.a. Auto) und dabei vor allem im Bereich autonomes Fahren, insgesamt ist der Begriff jedoch weit zu verstehen und so spielen beispielsweise auch der öffentliche Personennahverkehr oder allgemein die intelligente Vernetzung und Steuerung der Verkehrssysteme eine Rolle. Insgesamt ergeben sich bei der Digitalisierung im Mobilitätsbereich eine Reihe von Chancen und Herausforderungen, die insbesondere aus rechtlicher, technischer und politisch-gesellschaftlicher Perspektive beleuchtet werden können.
 
-## Autonomes Fahren
+## 1. Definition
 
-Im allgemeinen Sprachgebrauch ist oftmals die Rede vom autonomen Fahren, obwohl sich im technischen Sinne verschiedene Stufen der **Automatisierung** dahinter verbergen. 
+Art. 7 BayDiG-E sieht unter anderem die Förderung der digitalen Qualifizierung der Beschäftigten der öffentlichen Verwaltung vor. Der Begriff der „digitalen Qualifizierung“ ist hierbei so zu verstehen, dass die Beschäftigten des öffentlichen Dienstes durch geeignete Weiterbildungsmaßnahmen in die Lage versetzt werden sollen, ihre Tätigkeit im Zeitalter der Digitalisierung unter Anwendung sämtlicher durch das BayDiG vorhergesehenen technischen Arbeitsmittel auszuüben.
 
-Grundsätzlich wichtig ist die Unterscheidung zwischen den verschiedenen Graden der Automatisierung und der höchsten Stufe des **autonomen** Fahrens. Während bei ersterem die Fahrer:innen durch technische Systeme wie Spurhalteassistenten, automatisches Einparken oder selbstständiges Überholen unterstützt werden und die Person hinter dem Lenkrad stets eingreifen können muss, übernehmen beim autonomen Fahren die technischen Systeme jegliche Fahraufgabe – die ehemaligen Fahrer werden zu Passagieren.
+Aus rechtlicher Perspektive wird, insbesondere durch Art. 7 Abs. 3 BayDiG-E, ein Fort- und Weiterbildungsanspruch begründet, welcher die Bediensteten des öffentlichen Dienstes (Staatsbedienstete) in die Lage versetzt, bei der Einführung neuer digitaler Verfahren sowie bei wesentlichen Erweiterungen oder sonstigen Änderungen bestehender Verfahren eine angemessene Fort- und Weiterbildung zu verlangen. Kritisch ist hierbei anzumerken, dass sich dieser Anspruch nur auf die staatliche Verwaltung erstreckt. Art. 7 Abs. 4 BayDiG-E sieht vor, dass der kommunalen Ebene und nachgelagerten juristischen Personen des öffentlichen Rechts des Freistaats Bayern lediglich empfohlen wird, ein entsprechendes Fort- und Weiterbildungsangebot umzusetzen.
 
-Die technischen Voraussetzungen dafür lassen sich in drei Stufen unterteilen. Zunächst nehmen Kameras und Sensoren die Umgebung in Echtzeit wahr, allein für einen Staupiloten können hierfür über 20 verschiedene Sensorsysteme zum Einsatz kommen. Bei vernetzten bzw. kooperativen Verkehrssystemen kommunizieren die verschiedenen Fahrzeuge zusätzlich miteinander und diese Wahrnehmung wird als Perzeption bezeichnet. In einem zweiten Schritt wird mithilfe der erzeugten Perzeption ein dynamisches dreidimensionales Bild der Umgebung erzeugt und auf dessen Grundlage trifft das System Vorhersagen. Mithilfe dieser Vorhersagen wird letztlich die ideale Fahrweise des Autos bestimmt. Die zentrale Herausforderung an solche Systeme ist dabei, „Informationen in Echtzeit zu generieren, zu verarbeiten und darauf zu reagieren.“  
+Aus politischer Perspektive erwähnenswert ist auch die Selbstverpflichtung des Freistaats Bayern, geeignete Maßnahmen zur Gewinnung, Bindung und Entwicklung von IT-Fachkräften in der bayerischen Staatsverwaltung zu treffen (Art. 7 Abs. 1 S. 2 BayDiG- E). Hier wird ein politisches Ziel formuliert, ohne eine fixe Regelung mit einem zu engen Regelungsinhalt zu treffen, welche es den politischen Entscheidungsträgern erlaubt, flexibel auf die Bedürfnisse der Verwaltungsdigitalisierung einzugehen.
 
-Das autonome Fahren führt nicht nur zu großen technischen Herausforderungen, sondern wirft auch weitreichende und komplexe juristische Fragen, beispielsweise bezüglich der Haftung nach einem Unfall oder des Datenschutzes bzw. der Datennutzung. In Deutschland traten hierfür am 21. Juni 2017 das Gesetz zum automatisierten Fahren für Systeme der Stufe 3 und am 28. Juli 2021 das Gesetz zum autonomen Fahren für Systeme der Stufe 4 in Kraft. Wichtige Maßstäbe für die beiden Gesetze gab eine vom Bundesverkehrsministerium eingesetzte Ethikkommission vor – unter anderem besetzt durch Prof. Dr. Dirk Heckmann –, die 20 ethische Regeln für den vernetzten und automatisierten Fahrzeugverkehr formulierte. Demnach muss das primäre Ziel automatisierter (Verkehrs-)Systeme eine Verbesserung der Sicherheit sein und der Schutz menschlichen Lebens muss stets Vorrang genießen; bei Unfällen darf keine Quantifizierung oder Qualifizierung nach z.B. äußerlichen Merkmalen der betroffenen Personen erfolgen. Auf europäischer und internationaler Ebene fehlt es bislang an Regelungen für autonomes Fahren, allerdings hat die Europäische Kommission im Oktober 2021 einen Verordnungsentwurf diesbezüglich an die Mitgliedsstaaten versandt. Auf internationaler Ebene gibt es das von 80 Staaten ratifizierte Wieder Übereinkommen über den Straßenverkehr von 1968 und bei dessen letzten Änderung im Jahr 2016 automatisierte, nicht aber autonome, Systeme zur Fahrzeugsteuerung geregelt bzw. erlaubt wurden. 
-Ob und in welchem Ausmaß die Technologie zum autonomen Fahren genutzt wird, hängt auch von den einzelnen Autofahrer:innen ab und wie sie der Technik gegenüberstehen. Zahlen hierfür liefert z.B. die Mobilitätsstudie 2020 der Continental AG. Demnach glauben 51% der befragten Personen nicht, dass die Technik je zuverlässig funktionieren wird und 60% sagen, dass ihnen automatisiertes Fahren weniger Freude bereitet als „klassisches“ Autofahren. Diese Ergebnisse dürfen jedoch nicht überbewertet werden, da die Studie auch zeigt, dass bereits existierende Assistenzsysteme eher akzeptiert werden, wenn deren Vorteile klar erkennbar sind.
+Auch aus ökonomischer Perspektive erscheint die Formulierung des Art. 7 Abs. 1 S. 2 BayDiG-E als politisches Ziel als begrüßenswert. Insbesondere in einem sich im ständigen Wandel und Fortschritt befindlichen Bereich wie der Digitalisierung ist es von unermesslicher Bedeutung, zwar ein konkretes Ziel vor Augen zu haben, jedoch nicht durch zu starre, verpflichtende Regelungen (z. B. durch eine Formulierung wie: „Der Freistaat Bayern stellt jährlich 500 neue IT-Fachkräfte ein“) ineffizient und nicht zielorientiert Ausgaben zu erzeugen und den Staatshaushalt zu belasten.
+
+Durch die Behandlung der Qualifizierung der Beschäftigten im Art. 7 BayDiG-E, noch vor den „digitalen Grundrechten“, wird darüber hinaus aus politikwissenschaftlicher Perspektive bereits aus der Systematik des Gesetzes klar, welche Wichtigkeit die digitale Qualifizierung der Beschäftigten der öffentlichen Verwaltung für den Erfolg der bayerischen Digitalstrategie hat.
+
+## 2. Umsetzung
+
+Zur Umsetzung der umfangreichen digitalen Qualifizierung der Beschäftigten der öffentlichen Verwaltung in Bayern sind die geforderten Fort- und Weiterbildungsangebote unumgänglich. Im Sinne einer passgenauen Fort- und Weiterbildung ist für jeden Bereich auszuloten, welche Form der Fort- und Weiterbildung im konkreten Fall anzubieten ist. Bei kleineren Systemänderungen, welche für den geübten Anwender keine Herausforderung darstellen sollten, dürfte die Bereitstellung übersichtlicher Anwendungsleitfäden ausreichen. Im Zuge umfangreicher Änderungen kann es im Einzelfall erforderlich werden, für die Beschäftigen mehrstündige oder mehrtägige Seminare (online oder in Präsenzform) oder Training-on-the-Job-Formate anzubieten.
+
+Im Sinne der Verwaltungseffizienz ist es wichtig, dass passgenaue Fortbildungsformate angeboten werden, welche aber andererseits auch nicht zu viel wertvolle Arbeitszeit einnehmen. Es muss eine Balance zwischen Weiterbildungs- und Arbeitszeit gefunden werden.
+
+Besonders technologieaffine Beschäftigte könnten behördenübergreifend zu „Digitalisierungspaten“ oder „Digitalisierungsbotschaftern“ ausgebildet werden und innerbehördlich als Ansprechpartner im Rahmen von Training-on-the-Job-Formaten eingesetzt werden, ohne auf den kostenintensiven Einsatz externer EDV-Trainer angewiesen zu sein.
+
+## 3. Chancen, Herausforderungen und Bewertung
+
+Die Umsetzung der digitalen Qualifizierung der Beschäftigten in der öffentlichen Verwaltung bietet zahlreiche Chancen.
+
+Der Freistaat kann nur von gut ausgebildeten Beschäftigten erwarten, neue Digitalanwendungen in ihrer täglichen Arbeit zu nutzen. Durch die Verankerung des Weiterbildungsanspruchs in Art. 7 BayDiG-E stärkt der Freistaat einerseits die Position der Beschäftigten des öffentlichen Dienstes, andererseits zeigt er auch seine Leistungsbereitschaft gegenüber denjenigen, welche sich mit dem Thema Digitalisierung noch schwer tun. Beschäftigte, welche über geringe Digitalkompetenzen verfügen, können durch geeignete Weiterbildungsmaßnahmen peau à peau an das Thema „Digitalisierung“ herangeführt werden, wodurch erreicht werden kann, dass der Geist der Digitalisierung behördenübergreifend gelebt wird.
+
+Wie bereits oben erwähnt, ist die Ausklammerung aus der verpflichtenden Einführung von Fort- und Weiterbildungsangeboten zum Thema Digitalisierung für dem Freistaat nachgeordnete Behörden und Körperschaften als unbefriedigend zu werten. Es gilt zu verhindern, dass Beschäftigte des öffentlichen Dienstes auf kommunaler Ebene nicht im selben Umfang in digitale Prozesse eingewiesen werden, wie es bei Beschäftigten staatlicher Behörden der Fall ist. Dies ergibt sich bereits daraus, dass sich auch nachgelagerte Behörden nicht den Entwicklungen der Digitalisierung und den Regelungen des BayDiG-E entziehen können. Zum anderen dürfen bei den betroffenen Beschäftigten keine Kompetenzlücken entstehen, welche dazu führen, dass diese im Zweifel im Rahmen von Einstellungsverfahren staatlicher Behörden Bewerbern anderer staatlicher Behörden gegenüber benachteiligt werden.
 
 {% tip %}
 
-**Autor:** Jonas Hacker
+**Autor:** Julian Maurer
 
 {% endtip %}
