@@ -38,7 +38,7 @@ jobs:
           ALGOLIA_APPLICATION_ID: ${{ secrets.ALGOLIA_APPLICATION_ID }}
           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npm run sync-search
+        run: npm run sync-search-indices.js
       - name: Send slack notification if workflow run fails
         uses: someimportantcompany/github-actions-slack-message@0b470c14b39da4260ed9e3f9a4f1298a74ccdefd
         if: failure()
