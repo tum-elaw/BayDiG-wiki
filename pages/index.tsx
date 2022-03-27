@@ -87,9 +87,9 @@ function LandingPage(props: LandingPageProps) {
       <h3 className="display-4">„Die Idee eines studentischen BayDiG-Wikis ist großartig. Junge Menschen sind wichtige Adressaten des Digitalgesetzes. Deshalb zählt gerade auch ihre Perspektive.”</h3>
           </div>
           <div className="mt-5 float-left">
-            <img className="float-left mt-2" src ="/assets/images/mocker_bw.png" width="60px"></img>
+            <img className="float-left mt-2" src ="/assets/images/mocker.png" width="60px"></img>
             <div className="col-12 col-lg-6 float-left">
-          <h3 className="display-4 ml-3 float-left">Valerie Mocker</h3>
+          <h3 className="display-4 ml-3 float-left color-text-link">Valerie Mocker</h3>
           <h5 className="display-4 ml-3 float-left">Universität Oxford, Mitglied des Präsidiums von Wikimedia e.V.</h5>
           </div>
           </div>
