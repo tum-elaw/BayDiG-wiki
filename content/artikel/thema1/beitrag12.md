@@ -1,9 +1,9 @@
 ---
-title: Digitalisierung im Mobilitätsbereich2test
-intro: 'Digitalisierung im Mobilitätsbereich'
+title: Portalverbund Bayern/Bayernportal - Art. 27 BayDiG-E
+intro: 'Portalverbund Bayern/Bayernportal - Art. 27 BayDiG-E'
 contributor:
-  name: Jonas Hacker
-  URL: https://www.gov.tum.de/elaw/team/jonas-hacker/
+  name: Lukas Baumgartner 
+  URL: https://www.tum.de/
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/
@@ -15,31 +15,43 @@ versions:
 type: how_to
 topics:
   - Digital
-shortTitle: Art 12
+shortTitle: Portalverbund Bayern/Bayernportal
 ---
-```
-"Der Freistaat Bayern gestaltet und fördert die Digitalisierung im Interesse
-von Bürgern, Gesellschaft und Wirtschaft. 
-Die Maßnahmen des Freistaates Bayern zielen insbesondere auf (…)  eine stärkere
-Nutzung der Möglichkeiten der Digitalisierung imMobilitätsbereich“
-(Art. 2 S. 2 Nr. 4 BayDiG-E).
-```
 
-Test. Mit dieser Formulierung definiert die Bayerische Staatsregierung in ihrem Entwurf des Bayerischen Digitalgesetzes den Bereich der (vernetzten) Mobilität als eine Zielbestimmung ihrer digitalen Daseinsvorsorge. Unter Digitalisierung wird im Folgenden der „Prozess (…) der auf der intelligenten Vernetzung von Prozessketten und einer durchgängigen Erfassung, Aufbereitung, Analyse und Kommunikation von Daten beruht (…)“ verstanden. Aufgrund der technischen Entwicklungen und Fortschritte der vergangenen Jahrzehnte werden täglich viele Daten und Informationen gesammelt und deren konstruktive und gemeinschaftsdienliche Nutzung soll durch das neue Gesetz erreicht werden, im vorliegenden Kontext im Bereich der Mobilität. Der Fokus liegt dabei auf dem motorisierten Individualverkehr (v.a. Auto) und dabei vor allem im Bereich autonomes Fahren, insgesamt ist der Begriff jedoch weit zu verstehen und so spielen beispielsweise auch der öffentliche Personennahverkehr oder allgemein die intelligente Vernetzung und Steuerung der Verkehrssysteme eine Rolle. Insgesamt ergeben sich bei der Digitalisierung im Mobilitätsbereich eine Reihe von Chancen und Herausforderungen, die insbesondere aus rechtlicher, technischer und politisch-gesellschaftlicher Perspektive beleuchtet werden können.
+## 1.Definition des Begriffs
 
-## Autonomes Fahren
+Der Gesetzentwurf vom 9. Dezember 2021 (LT-Drucksache 18/19572) definiert das Bayernportal in Artikel 27 Satz 1 wie folgt: „Das Bayernportal ist das allgemeine Verwaltungsportal des Freistaates Bayern“  
 
-Im allgemeinen Sprachgebrauch ist oftmals die Rede vom autonomen Fahren, obwohl sich im technischen Sinne verschiedene Stufen der **Automatisierung** dahinter verbergen. 
+In der Gesetzesbegründung zu Artikel 27 (S. 69) wird zum Begriff des Bayernportals Folgendes ausgeführt: 
+„Art. 27 definiert im Satz 1 das Bayernportal als allgemeines Verwaltungsportal des Freistaates Bayern. Im Satz 2 werden die Funktionen aufgezählt, die der Freistaat Bayern bereitstellt, um ein modernes Verwaltungsportal zu gewährleisten. Insbesondere wird über das Bayernportal die Identifizierung und Authentifizierung über das Bürgerkonto gemäß Art. 29 Abs. 2 ermöglicht. Auch Justizleistungen können in das Bayernportal aufgenommen werden. Ein Anspruch, Justizleistungen über das Bayernportal abrufen zu können, wird dadurch allerdings nicht begründet.“
 
-Grundsätzlich wichtig ist die Unterscheidung zwischen den verschiedenen Graden der Automatisierung und der höchsten Stufe des **autonomen** Fahrens. Während bei ersterem die Fahrer:innen durch technische Systeme wie Spurhalteassistenten, automatisches Einparken oder selbstständiges Überholen unterstützt werden und die Person hinter dem Lenkrad stets eingreifen können muss, übernehmen beim autonomen Fahren die technischen Systeme jegliche Fahraufgabe – die ehemaligen Fahrer werden zu Passagieren.
+Aus technischer Sicht kann der Begriff des Bayernportals bzw. des Portalverbundes anhand des vorliegenden Gesetzentwurfs als die Vereinheitlichung einer modular organisierten Systemlandschaft verstanden werden. Während die Systeme der einzelnen Organisationsebenen (z.B. Kommunen) im Kern erhalten bleiben, soll eine normierte Benutzeroberfläche die Navigation zwischen den Systemen nutzerfreundlich ermöglichen. 
 
-Die technischen Voraussetzungen dafür lassen sich in drei Stufen unterteilen. Zunächst nehmen Kameras und Sensoren die Umgebung in Echtzeit wahr, allein für einen Staupiloten können hierfür über 20 verschiedene Sensorsysteme zum Einsatz kommen. Bei vernetzten bzw. kooperativen Verkehrssystemen kommunizieren die verschiedenen Fahrzeuge zusätzlich miteinander und diese Wahrnehmung wird als Perzeption bezeichnet. In einem zweiten Schritt wird mithilfe der erzeugten Perzeption ein dynamisches dreidimensionales Bild der Umgebung erzeugt und auf dessen Grundlage trifft das System Vorhersagen. Mithilfe dieser Vorhersagen wird letztlich die ideale Fahrweise des Autos bestimmt. Die zentrale Herausforderung an solche Systeme ist dabei, „Informationen in Echtzeit zu generieren, zu verarbeiten und darauf zu reagieren.“  
+## 2. Umsetzung des Begriffs
 
-Das autonome Fahren führt nicht nur zu großen technischen Herausforderungen, sondern wirft auch weitreichende und komplexe juristische Fragen, beispielsweise bezüglich der Haftung nach einem Unfall oder des Datenschutzes bzw. der Datennutzung. In Deutschland traten hierfür am 21. Juni 2017 das Gesetz zum automatisierten Fahren für Systeme der Stufe 3 und am 28. Juli 2021 das Gesetz zum autonomen Fahren für Systeme der Stufe 4 in Kraft. Wichtige Maßstäbe für die beiden Gesetze gab eine vom Bundesverkehrsministerium eingesetzte Ethikkommission vor – unter anderem besetzt durch Prof. Dr. Dirk Heckmann –, die 20 ethische Regeln für den vernetzten und automatisierten Fahrzeugverkehr formulierte. Demnach muss das primäre Ziel automatisierter (Verkehrs-)Systeme eine Verbesserung der Sicherheit sein und der Schutz menschlichen Lebens muss stets Vorrang genießen; bei Unfällen darf keine Quantifizierung oder Qualifizierung nach z.B. äußerlichen Merkmalen der betroffenen Personen erfolgen. Auf europäischer und internationaler Ebene fehlt es bislang an Regelungen für autonomes Fahren, allerdings hat die Europäische Kommission im Oktober 2021 einen Verordnungsentwurf diesbezüglich an die Mitgliedsstaaten versandt. Auf internationaler Ebene gibt es das von 80 Staaten ratifizierte Wieder Übereinkommen über den Straßenverkehr von 1968 und bei dessen letzten Änderung im Jahr 2016 automatisierte, nicht aber autonome, Systeme zur Fahrzeugsteuerung geregelt bzw. erlaubt wurden. 
-Ob und in welchem Ausmaß die Technologie zum autonomen Fahren genutzt wird, hängt auch von den einzelnen Autofahrer:innen ab und wie sie der Technik gegenüberstehen. Zahlen hierfür liefert z.B. die Mobilitätsstudie 2020 der Continental AG. Demnach glauben 51% der befragten Personen nicht, dass die Technik je zuverlässig funktionieren wird und 60% sagen, dass ihnen automatisiertes Fahren weniger Freude bereitet als „klassisches“ Autofahren. Diese Ergebnisse dürfen jedoch nicht überbewertet werden, da die Studie auch zeigt, dass bereits existierende Assistenzsysteme eher akzeptiert werden, wenn deren Vorteile klar erkennbar sind.
+Notwendige Handlungsschritte zur Errichtung eines Portalverbunds, der systemseitig auf dem Zusammenspiel mehrerer einzelner Systeme basiert, ist die Definition von klaren zentralen Anforderungen, um eine Integration technisch überhaupt grundsätzlich zu ermöglichen. 
+
+Das geplante Digitalgesetz existiert derzeit als Gesetzesentwurf und wird in mehreren Ausschüssen und Verbänden diskutiert. Die Erstlesung zum Gesetz fand im Bayrischen Landtag am 25. Januar 2022 statt. Jüngster Schritt im Zuge der Umsetzung war die Expertenanhörung im Bayerischen Landtag vom 17.März 2022, welcher untermauerte, dass das geplante Bayerische Digitalgesetz des Staatsministeriums für Digitales auf dem richtigen Weg ist. 
+
+Konkreter Handlungsbedarf ergibt sich aus der Frist zur Umsetzung des Onlinezugangsgesetzes – OZG, welches Bund, Länder und Kommunen bis Ende 2022 verpflichtet ihre Verwaltungsleistungen über Verwaltungsportale auch digital anzubieten (§1 Abs. 1 OZG). Auch die bayrische Digitalministerin Judith Gerlach (CSU) betonte, dass man bei der Umsetzung „nochmals Gas geben werden müsse.“
+
+## 3. Chancen und Herausforderungen
+
+Die Errichtung des Bayernportals als Portalverbund stellt eine wegweisende Möglichkeit dar einen allgemeinen Rechtsrahmen für die Digitalisierung von Gesellschaft und Wirtschaft, Staat und Verwaltung zu schaffen. Bürgerfreundliche Verwaltung könnte dadurch gelebte Realität werden und eventuell bestehende Hürden zwischen Staat und Bürger überwinden. Durch eine umfangreiche Digitalisierung der Verwaltungsprozesse können zudem enorme Zeit- und Ressourcen-Effizienzen auf Seiten der Verwaltung erreicht werden. Durch Wegfall des physischen Behördengangs mit potenziell langen Wartezeiten kann auch ein gesamtwirtschaftlicher Wohlfahrtsgewinn entstehen.
+Bei durchdachter Umsetzung und weitsichtiger Implementierungsstrategie auf technischer Seite kann das System für zukünftige Anforderungen flexibel erweitert werden und vermeidet Insellösungen. Eine Herausforderung wird in diesem Kontext die Realisierung eines vorausschauenden Systemdesigns sein und die Prognose zukünftiger – ex ante noch nicht bekannter – Anforderungen sein.
+
+Große Herausforderungen erwachsen vor allem aus der komplexen Aufgabenstellung eine Systemlandschaft mit fragmentiertem Back-End in seiner Benutzeroberfläche so weit zu harmonisieren, dass eine verständliche und intuitive Bedienung möglich ist, jedoch gleichzeitig die notwendige Flexibilität zur systemseitig übergreifenden Implementierung besteht. Anzumerken sei auch, dass diese technisch sehr ambitionierte Umsetzung ein hinreichend hohes technisches Verständnis auf Seiten der Verwaltung erfordert. Es werden umfassende Schulungen für das Verwaltungspersonal notwendig sein, um eine effiziente Bedienung der IT sicherzustellen.
+
+## 4. Fazit/Bewertung
+
+Die Einführung eines zentralen Bayernportals zur Digitalisierung der Verwaltung stellt eine großartige Bereicherung der Debatte rund um High-Tech, bürgerfreundliche Verwaltung und modernes Staatswesen dar. Eine zügige Umsetzung ist unbedingt notwendig, um dem Anspruch moderner Politik gerecht zu werden. 
+
+Nachbesserungsbedarf ergibt sich nach Ansicht der Opposition vor allem im Bereich der Teilhabe, um z.B. Menschen mit Behinderung oder älteren Menschen eine Bedienung des Portals zu ermöglichen. Hier bleibt der Gesetzentwurf an vielen Stellen vage und unkonkret. 
+Auch mangelnde Vorgaben beim Thema OpenData werden kritisiert. Hier hätte das Gesetz einen großen Schritt in Richtung Aufbau einer innovativen Dateninfrastruktur für Bayern wagen können. Offene Daten könnten z.B. viel Potenzial für mehr Transparenz des Staates gegenüber der Gesellschaft im Sinne von Open Government bedeuten. Ebenso können sie bei der Entwicklung von Innovation und der neuer Geschäftsmodelle entscheidend unterstützen.
+
 
 {% tip %}
 
-**Autor:** Jonas Hacker
+**Autor:** Lukas Baumgartner
 
 {% endtip %}
