@@ -83,9 +83,24 @@ function LandingPage(props: LandingPageProps) {
       </section>
 
       <div className="px-3 px-md-6 container-xl">
-        <div className="featured-links container-xl">
+      <div className="col-12 col-lg-10 float-left">
+      <h3 className="display-4">„Die Idee eines studentischen BayDiG-Wikis ist großartig. Junge Menschen sind wichtige Adressaten des Digitalgesetzes. Deshalb zählt gerade auch ihre Perspektive.”</h3>
+          </div>
+          <div className="mt-5 float-left">
+            <img className="float-left mt-2" src ="/assets/images/mocker.png" width="60px"></img>
+            <div className="col-12 col-lg-6 float-left">
+          <h3 className="display-4 ml-3 float-left">Valerie Mocker</h3>
+          <h5 className="display-4 ml-3 float-left">Universität Oxford, Mitglied des Präsidiums von Wikimedia e.V.</h5>
+          </div>
+          </div>
+       
+          
+    
+        
+          <div className="featured-links container-xl">
           <div className="gutter gutter-xl-spacious clearfix">
-            <div className="col-12 col-lg-6 mb-md-4 mb-lg-0 float-left">
+            <div className="col-12 col-lg-6 mt-8 mb-md-4 mb-lg-0 float-left">
+            
               <ArticleList
                 title={t('toc:getting_started')}
                 variant="spaced"
@@ -93,7 +108,7 @@ function LandingPage(props: LandingPageProps) {
               />
             </div>
 
-            <div className="col-12 col-lg-6 float-left">
+            <div className="col-12 col-lg-6 mt-8 float-left">
               <ArticleList title={t('toc:popular')} variant="spaced" articles={popularLinks} />
             </div>
           </div>
