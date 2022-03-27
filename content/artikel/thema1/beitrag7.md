@@ -15,7 +15,7 @@ versions:
 type: how_to
 topics:
   - Digital
-shortTitle: Stärkung digitaler Grundkompetenze
+shortTitle: Stärkung digitaler Grundkompetenzen
 ---
 ## 1. Definition des Begriffs laut Gesetz, Verständnis der Gesetzesbegründung, Verständnis aus Fachperspektive
 
