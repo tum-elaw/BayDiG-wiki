@@ -42,9 +42,9 @@ export const Header = () => {
             </div>
           )}
 
-          <div className="py-2">
+          <div className="pt-1 mr-4">
             {/*<LanguagePicker />                            commented out to remove Language Picker */}
-            
+            <a href="https://www.tum.de/" target='_blank' rel="noopener noreferrer">
             <svg width="60px" height="32px" viewBox="0 0 740 390" version="1.1">
 
 <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -53,7 +53,14 @@ export const Header = () => {
     </g>
 </g>
 </svg>
+            </a>
           </div>
+
+          <div className='"float-left pt-1'>
+          <a href="https://www.tum-cdps.de/" target='_blank' rel="noopener noreferrer">
+            <img src="/assets/images/site/cdpslogo.png" height="32px"></img>
+            </a>
+            </div>
 
           {/* <!-- GitHub.com homepage and 404 page has a stylized search; Enterprise homepages do not --> */}
           {relativePath !== 'index.md' && error !== '404' && (
@@ -69,7 +76,7 @@ export const Header = () => {
             <div className="d-flex flex-items-center" id="github-logo-mobile" role="banner">
               <Link aria-hidden="true" tabIndex={-1} href={`/${router.locale}`}>
                 {/*<MarkGithubIcon size={32} className="color-icon-primary" />*/}
-                <img src="assets/images/site/govlogo.png" width="32px"></img>
+                <img src="/assets/images/site/govlogo.png" width="32px"></img>
               </Link>
 
               <Link
