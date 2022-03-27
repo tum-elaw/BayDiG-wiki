@@ -13,10 +13,7 @@ export const SmallFooter = () => {
             <div style={{marginLeft: 1 + 'em'}}><span>&copy; {new Date().getFullYear()} TUM Center for Digital Public Services</span></div>
           </li>
           <li className="ml-3 no-print">
-            <a href="https://www.gov.tum.de/elaw">{`Bedingungen`}</a>
-          </li>
-          <li className="ml-3 no-print">
-            <a href="https://www.gov.tum.de/elaw">{`Impressum`} </a>
+            <a href="https://www.gov.sot.tum.de/elaw/impressum/">{`Impressum`} </a>
           </li>
           <li className="ml-3">
             <a href="https://digitalgesetz.wiki">{`digitalgesetz.wiki`} </a>
