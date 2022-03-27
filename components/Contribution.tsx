@@ -21,7 +21,7 @@ export const Contribution = () => {
       <p className="color-text-secondary f6 mt-2">
         {t`or`}{' '}
         <a
-          href="https://github.com/github/docs/blob/main/CONTRIBUTING.md"
+          href="https://github.com/tum-elaw/baydig-wiki/issues/new/choose"
           target="_blank"
           rel="noopener"
         >

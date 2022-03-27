@@ -56,18 +56,18 @@ survey:
   able_to_find: Wie findest du dieses Wiki?
   yes: Yes
   no: No
-  yes_feedback: We're continually improving our docs. We'd love to hear what we do well.
-  no_feedback: We're continually improving our docs. We'd love to hear how we can do better.
-  comment_yes_label: Let us know what we do well
-  comment_no_label: Let us know what we can do better
+  yes_feedback: Wir verbessern unser Wiki kontinuierlich. Wir würden gerne hören, was wir gut machen.
+  no_feedback: Wir verbessern unser Wiki kontinuierlich. Wir würden gerne hören, wie wir es besser machen können.
+  comment_yes_label: Lassen Sie uns wissen, was wir gut machen
+  comment_no_label: Lassen Sie uns wissen, was wir besser machen können
   optional: Optional
-  required: Required
+  required: Benötigt
   email_placeholder: email@example.com
-  email_label: Can we contact you if we have more questions?
-  send: Send
-  feedback: Thank you! We received your feedback.
-  not_support: If you need a reply, please contact support instead.
-  privacy_policy: Privacy policy
+  email_label: Dürfen wir Sie zu Nachfragen kontaktieren?
+  send: Senden
+  feedback: Danke! Wir haben dein Feedback erhalten.
+  not_support: Falls sie ein Antwort wünschen, kontaktieren Sie bitte den Wiki-Administrator
+  privacy_policy: TUM CDPS
 contribution_cta:
   title: Hilf uns das Wiki zu verbessern!
   body: Diese Artikel sind open source. Dir ist etwas falsches oder unklares aufgefallen? Reiche eine Änderung ein.

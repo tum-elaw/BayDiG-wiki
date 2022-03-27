@@ -41,7 +41,7 @@ export const Survey = () => {
 
         <Link
           className="f6 text-normal ml-3 color-text-link"
-          href="/github/site-policy/github-privacy-statement"
+          href="https://www.tum-cdps.de/"
           target="_blank"
         >
           {t`privacy_policy`}
