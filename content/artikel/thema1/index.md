@@ -23,6 +23,5 @@ children:
   - beitrag10
   - beitrag11
   - beitrag12
-  - beitrag13
 ---
 
