@@ -14,7 +14,7 @@ versions:
   fpt: '*'
 type: how_to
 topics:
-  - Digital
+  - Art. 39
 shortTitle: Bayernserver
 ---
 

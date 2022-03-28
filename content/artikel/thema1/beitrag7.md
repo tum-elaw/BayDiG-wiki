@@ -14,7 +14,7 @@ versions:
   fpt: '*'
 type: how_to
 topics:
-  - Digital
+  - Art. 2
 shortTitle: Stärkung digitaler Grundkompetenzen
 ---
 ## 1. Definition des Begriffs laut Gesetz, Verständnis der Gesetzesbegründung, Verständnis aus Fachperspektive

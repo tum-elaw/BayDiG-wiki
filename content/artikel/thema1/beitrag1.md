@@ -14,7 +14,7 @@ versions:
   fpt: '*'
 type: how_to
 topics:
-  - Digitalisierung
+  - Art. 2
 shortTitle: Digitalisierung im Mobilitätsbereich
 ---
 ## Intro

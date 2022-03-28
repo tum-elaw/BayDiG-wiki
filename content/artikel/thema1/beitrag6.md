@@ -14,7 +14,7 @@ versions:
   fpt: '*'
 type: how_to
 topics:
-  - Digital
+  - Art. 3
 shortTitle: Digitale Souveränität
 ---
 
