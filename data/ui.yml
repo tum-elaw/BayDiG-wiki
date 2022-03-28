@@ -171,7 +171,7 @@ product_sublanding:
   load_more: Lade mehr tolle Beiträge
   all_guides: '{{ productMap[currentProduct].name }} o'
   filters:
-    type: BayDiG-E Artikel
+    type: Typ
     topic: Thema
     all: Alle
   guide_types:
