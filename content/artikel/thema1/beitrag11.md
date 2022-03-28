@@ -14,7 +14,7 @@ versions:
   fpt: '*'
 type: how_to
 topics:
-  - Digital
+  - Art. 17
 shortTitle: Digitale Dienste
 ---
 ## 1. Definition des Begriffs

@@ -171,15 +171,15 @@ product_sublanding:
   load_more: Lade mehr tolle Beiträge
   all_guides: '{{ productMap[currentProduct].name }} o'
   filters:
-    type: Typ
-    topic: Thema
+    type: Thema
+    topic: BayDiG-E Artikel
     all: Alle
   guide_types:
-    overview: Essay
-    quick_start: Kommentar
-    tutorial: Zum Gesetz
-    how_to: Fallstudie
-    reference: Referenz
+    overview: Kategorie 1
+    quick_start: Kategorie 2
+    tutorial: Kategorie 3
+    how_to: Kategorie 4
+    reference: Kategorie 5
 learning_track_nav:
   prevGuide: Previous guide
   nextGuide: Next guide
