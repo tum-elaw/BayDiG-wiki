@@ -1,7 +1,7 @@
 ---
-title: Digitalisierung
-shortTitle: Digitalisierung
-intro: 'Alle Beiträge zum Thema Digitalisierung'
+title: Alle Beiträge
+shortTitle: Alle Beiträge
+intro: 'Alle Beiträge'
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-git-large-file-storage
   - /articles/managing-large-file-storage-and-bandwidth-for-your-personal-account/
