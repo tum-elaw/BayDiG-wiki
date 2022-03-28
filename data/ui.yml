@@ -171,9 +171,9 @@ product_sublanding:
   load_more: Lade mehr tolle Beiträge
   all_guides: '{{ productMap[currentProduct].name }} o'
   filters:
-    type: Typ
+    type: BayDiG-E Artikel
     topic: Thema
-    all: Alles
+    all: Alle
   guide_types:
     overview: Essay
     quick_start: Kommentar
