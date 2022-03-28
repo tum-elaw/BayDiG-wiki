@@ -173,7 +173,7 @@ product_sublanding:
   filters:
     type: Typ
     topic: Thema
-    all: Alles
+    all: Alle
   guide_types:
     overview: Essay
     quick_start: Kommentar
