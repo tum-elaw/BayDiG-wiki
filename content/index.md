@@ -5,7 +5,6 @@ featuredLinks:
     - /artikel/beitrag2
     - /artikel/beitrag3
     - /artikel/beitrag6
-
   popular:
     - /artikel/thema1/beitrag10
     - /artikel/thema1/beitrag12
