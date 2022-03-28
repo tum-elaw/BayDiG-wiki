@@ -2,10 +2,14 @@
 title: '{% data variables.product.product_name %}{% ifversion fpt %}.com{% endif %} Help Documentation'
 featuredLinks:
   gettingStarted:
-    - /artikel/testarticle
+    - /artikel/beitrag1
+    - /artikel/beitrag2
+    - /artikel/beitrag3
+
   popular:
-    - /artikel/thema1/beitrag1
-    - /artikel/thema1/beitrag1
+    - /artikel/thema1/beitrag4
+    - /artikel/thema1/beitrag5
+    - /artikel/thema1/beitrag6
 versions: '*'
 children:
   - artikel
