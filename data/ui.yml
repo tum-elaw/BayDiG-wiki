@@ -175,25 +175,20 @@ product_sublanding:
     topic: Semester
     all: Alle
   guide_types:
-    overview: Kategorie 1
-    quick_start: Kategorie 2
-    tutorial: Kategorie 3
-    how_to: Kategorie 4
-    reference: Kategorie 5
-    art10: Artikel 10
     art2: Artikel 2
-    art8: Artikel 8
-    art11: Artikel 11
-    art26: Artikel 26
-    art39: Artikel 39
-    art18: Artikel 18
+    art3: Artikel 3
     art5: Artikel 5
+    art7: Artikel 7
+    art8: Artikel 8
+    art9: Artikel 9
+    art10: Artikel 10
+    art11: Artikel 11
     art16: Artikel 16
     art17: Artikel 17
-    art7: Artikel 7
-    art9: Artikel 9
-    art3: Artikel 3
+    art18: Artikel 18
+    art26: Artikel 26
     art27: Artikel 27
+    art39: Artikel 39
 learning_track_nav:
   prevGuide: Previous guide
   nextGuide: Next guide
