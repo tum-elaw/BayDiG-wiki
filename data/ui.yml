@@ -171,8 +171,8 @@ product_sublanding:
   load_more: Lade mehr tolle Beiträge
   all_guides: '{{ productMap[currentProduct].name }} o'
   filters:
-    type: Thema
-    topic: BayDiG-E Artikel
+    type: BayDiG Artikel
+    topic: Semester
     all: Alle
   guide_types:
     overview: Kategorie 1
@@ -180,6 +180,16 @@ product_sublanding:
     tutorial: Kategorie 3
     how_to: Kategorie 4
     reference: Kategorie 5
+    art10: Artikel 10
+    art2: Artikel 2
+    art8: Artikel 8
+    art11: Artikel 11
+    art26: Artikel 26
+    art39: Artikel 39
+    art18: Artikel 18
+    art5: Artikel 5
+    art16: Artikel 16
+    art17: Artikel 17
 learning_track_nav:
   prevGuide: Previous guide
   nextGuide: Next guide

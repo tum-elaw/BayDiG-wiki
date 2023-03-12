@@ -24,6 +24,21 @@ includeGuides:
   - /artikel/thema1/beitrag11
   - /artikel/thema1/beitrag12
   - /artikel/thema1/beitrag13
+  - /artikel/thema1/beitrag14
+  - /artikel/thema1/beitrag15
+  - /artikel/thema1/beitrag16
+  - /artikel/thema1/beitrag17
+  - /artikel/thema1/beitrag18
+  - /artikel/thema1/beitrag19
+  - /artikel/thema1/beitrag20
+  - /artikel/thema1/beitrag21
+  - /artikel/thema1/beitrag22
+  - /artikel/thema1/beitrag23
+  - /artikel/thema1/beitrag24
+  - /artikel/thema1/beitrag25
+  - /artikel/thema1/beitrag26
+  - /artikel/thema1/beitrag27
+  - /artikel/thema1/beitrag28
 versions:
   fpt: '*'
   ghes: '*'
