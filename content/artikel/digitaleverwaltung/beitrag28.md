@@ -12,7 +12,7 @@ versions:
 type: art17
 topics:
   - WS 2022/23
-shortTitle: Digitale Dienste (Art. 17)
+shortTitle: Digitale Dienste II (Art. 17)
 miniTocMaxHeadingLevel: 3
 ---
 

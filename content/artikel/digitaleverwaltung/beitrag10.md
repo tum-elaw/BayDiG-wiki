@@ -15,7 +15,7 @@ versions:
 type: art39
 topics:
   - WS 2021/22
-shortTitle: Bayernserver (Art. 39)
+shortTitle: Der Bayernserver (Art. 39)
 ---
 
 ## 1. Definition des Begriffs

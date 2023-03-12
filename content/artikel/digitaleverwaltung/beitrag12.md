@@ -15,7 +15,7 @@ versions:
 type: art27
 topics:
   - WS 2021/22
-shortTitle: Portalverbund Bayern/Bayernportal (Art. 27)
+shortTitle: Portalverbund Bayern/Bayernportal II (Art. 27)
 ---
 
 ## 1.Definition des Begriffs

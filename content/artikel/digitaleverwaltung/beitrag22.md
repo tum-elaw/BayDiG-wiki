@@ -12,7 +12,7 @@ versions:
 type: art26
 topics:
   - WS 2022/23
-shortTitle: Portalverbund Bayern/Bayernportal (Art. 26)
+shortTitle: Portalverbund Bayern/Bayernportal (Art. 26f.)
 ---
 
 ## 1.	Definition

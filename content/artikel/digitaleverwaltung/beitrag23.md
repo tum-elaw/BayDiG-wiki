@@ -12,7 +12,7 @@ versions:
 type: art39
 topics:
   - WS 2022/23
-shortTitle: Der Bayernserver (Art. 39)
+shortTitle: Der Bayernserver II (Art. 39)
 miniTocMaxHeadingLevel: 3
 ---
 
