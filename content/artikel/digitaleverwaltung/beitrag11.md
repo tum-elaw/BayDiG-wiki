@@ -15,7 +15,7 @@ versions:
 type: art17
 topics:
   - WS 2021/22
-shortTitle: Digitale Dienste
+shortTitle: Digitale Dienste (Art. 17)
 ---
 ## 1. Definition des Begriffs
 

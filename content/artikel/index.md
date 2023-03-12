@@ -20,10 +20,10 @@ includeGuides:
   - /artikel/allgemeines/beitrag7
   - /artikel/allgemeines/beitrag8
   - /artikel/allgemeines/beitrag9
-  - /artikel/thema1/beitrag10
-  - /artikel/thema1/beitrag11
-  - /artikel/thema1/beitrag12
-  - /artikel/thema1/beitrag13
+  - /artikel/digitaleverwaltung/beitrag10
+  - /artikel/digitaleverwaltung/beitrag11
+  - /artikel/digitaleverwaltung/beitrag12
+  - /artikel/digitaleverwaltung/beitrag13
   - /artikel/digitalerechte/beitrag14
   - /artikel/allgemeines/beitrag15
   - /artikel/digitalerechte/beitrag16
@@ -32,20 +32,20 @@ includeGuides:
   - /artikel/allgemeines/beitrag19
   - /artikel/allgemeines/beitrag20
   - /artikel/digitalerechte/beitrag21
-  - /artikel/thema1/beitrag22
-  - /artikel/thema1/beitrag23
-  - /artikel/thema1/beitrag24
+  - /artikel/digitaleverwaltung/beitrag22
+  - /artikel/digitaleverwaltung/beitrag23
+  - /artikel/digitaleverwaltung/beitrag24
   - /artikel/allgemeines/beitrag25
   - /artikel/allgemeines/beitrag26
-  - /artikel/thema1/beitrag27
-  - /artikel/thema1/beitrag28
+  - /artikel/digitaleverwaltung/beitrag27
+  - /artikel/digitaleverwaltung/beitrag28
 versions:
   fpt: '*'
   ghes: '*'
   ghae: '*'
 children:
-  - thema1
   - allgemeines
   - digitalerechte
+  - digitaleverwaltung
 ---
 
