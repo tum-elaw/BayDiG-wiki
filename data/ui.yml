@@ -190,6 +190,9 @@ product_sublanding:
     art5: Artikel 5
     art16: Artikel 16
     art17: Artikel 17
+    art7: Artikel 7
+    art9: Artikel 9
+    art3: Artikel 3
 learning_track_nav:
   prevGuide: Previous guide
   nextGuide: Next guide

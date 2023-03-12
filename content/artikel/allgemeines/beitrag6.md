@@ -12,10 +12,10 @@ redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-git-large-file-storage/upgrading-git-large-file-storage
 versions:
   fpt: '*'
-type: how_to
+type: art3
 topics:
-  - Art. 3
-shortTitle: Digitale Souveränität
+  - WS 2021/22
+shortTitle: Digitale Souveränität (Art. 3)
 ---
 
 ## I. Definition

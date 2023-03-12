@@ -1,7 +1,7 @@
 ---
-title: Alle Beiträge
-shortTitle: Alle Beiträge
-intro: 'Alle Beiträge'
+title: Allgemein
+shortTitle: Allgemein
+intro: 'Allgemein'
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-git-large-file-storage
   - /articles/managing-large-file-storage-and-bandwidth-for-your-personal-account/
@@ -11,6 +11,14 @@ redirect_from:
 versions:
   fpt: '*'
 children:
+  - beitrag1
+  - beitrag2
+  - beitrag3
+  - beitrag4
+  - beitrag5
+  - beitrag6
+  - beitrag7
+  - beitrag8
   - beitrag9
   - beitrag10
   - beitrag11

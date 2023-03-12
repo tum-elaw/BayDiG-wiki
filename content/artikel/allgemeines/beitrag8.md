@@ -12,10 +12,10 @@ redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-git-large-file-storage/upgrading-git-large-file-storage
 versions:
   fpt: '*'
-type: how_to
+type: art2
 topics:
-  - Art. 2
-shortTitle: Gleichberechtigter Zugang zu Digitalberufen
+  - WS 2021/22
+shortTitle: Gleichberechtigter Zugang zu Digitalberufen (Art. 2)
 ---
 
 ## 1. Definition des Begriffs laut Gesetz, Verständnis der Gesetzesbegründung, Verständnis aus Fachperspektive

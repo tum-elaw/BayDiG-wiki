@@ -12,10 +12,10 @@ redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-git-large-file-storage/upgrading-git-large-file-storage
 versions:
   fpt: '*'
-type: how_to
+type: art11
 topics:
-  - Art. 11
-shortTitle: Digitale Identität
+  - WS 2021/22
+shortTitle: Digitale Identität (Art. 11)
 ---
 
 
