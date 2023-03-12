@@ -12,7 +12,7 @@ versions:
 type: art11
 topics:
   - WS 2022/23
-shortTitle: Digitale Identität (Art. 11)
+shortTitle: Digitale Identität II (Art. 11)
 ---
 
 ## 1.	Definition

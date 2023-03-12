@@ -28,15 +28,15 @@ includeGuides:
   - /artikel/allgemeines/beitrag15
   - /artikel/digitalerechte/beitrag16
   - /artikel/allgemeines/beitrag17
-  - /artikel/thema1/beitrag18
-  - /artikel/thema1/beitrag19
-  - /artikel/thema1/beitrag20
-  - /artikel/thema1/beitrag21
+  - /artikel/allgemeines/beitrag18
+  - /artikel/allgemeines/beitrag19
+  - /artikel/allgemeines/beitrag20
+  - /artikel/digitalerechte/beitrag21
   - /artikel/thema1/beitrag22
   - /artikel/thema1/beitrag23
   - /artikel/thema1/beitrag24
-  - /artikel/thema1/beitrag25
-  - /artikel/thema1/beitrag26
+  - /artikel/allgemeines/beitrag25
+  - /artikel/allgemeines/beitrag26
   - /artikel/thema1/beitrag27
   - /artikel/thema1/beitrag28
 versions:

@@ -12,7 +12,7 @@ versions:
 type: art2
 topics:
   - WS 2022/23
-shortTitle: Digitale Daseinsvorsorge & digitale Infrastrukturen – Art. 2 S. 2. Nr. 3 BayDiG 
+shortTitle: Digitale Daseinsvorsorge & digitale Infrastrukturen (Art. 2)
 ---
 
 ## 1.	Definition

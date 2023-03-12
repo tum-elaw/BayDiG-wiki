@@ -1,5 +1,5 @@
 ---
-title: Digitalisierung im Mobilitätsbereich – Art. 2 S. 2 Nr. 4 BayDiG
+title: Digitalisierung im Mobilitätsbereich II – Art. 2 S. 2 Nr. 4 BayDiG
 intro: ''
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
@@ -12,7 +12,7 @@ versions:
 type: art2
 topics:
   - WS 2022/23
-shortTitle: Digitalisierung im Mobilitätsbereich (Art. 2)
+shortTitle: Digitalisierung im Mobilitätsbereich II (Art. 2)
 miniTocMaxHeadingLevel: 3
 ---
 

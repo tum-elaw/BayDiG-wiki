@@ -11,13 +11,18 @@ redirect_from:
 versions:
   fpt: '*'
 children:
+  - beitrag20
   - beitrag1
+  - beitrag25
   - beitrag15
   - beitrag7
   - beitrag4
   - beitrag17
   - beitrag8
+  - beitrag19
+  - beitrag18
   - beitrag6
+  - beitrag26
   - beitrag2
   - beitrag9
 
