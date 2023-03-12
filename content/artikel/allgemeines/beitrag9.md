@@ -1,5 +1,5 @@
 ---
-title: Digitale Qualifizierung der Beschäftigten der öffentlichen Verwaltung - Art. 7 BayDiG-E
+title: Digitale Qualifizierung der Beschäftigten der öffentlichen Verwaltung II - Art. 7 BayDiG-E
 intro: 'Digitale Qualifizierung der Beschäftigten der öffentlichen Verwaltung - Art. 7 BayDiG-E'
 contributor:
   name: Sophie Salfetter
@@ -12,10 +12,10 @@ redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-git-large-file-storage/upgrading-git-large-file-storage
 versions:
   fpt: '*'
-type: how_to
+type: art7
 topics:
-  - Art. 7
-shortTitle: Digitale Qualifizierung der Beschäftigten der öffentlichen Verwaltung
+  - WS 2021/22
+shortTitle: Digitale Qualifizierung II (Art. 7)
 ---
 
 ## 1. Definition des Begriffs laut Gesetz, Verständnis der Gesetzesbegründung, Verständnis aus Fachperspektive

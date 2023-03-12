@@ -57,8 +57,3 @@ Zusammenfassend lässt sich also sagen, dass Art. 10 des BayDiG gute Ansätze zu
 
 Digitale Selbstbestimmung ist ein elementares Recht, welches eng an die Entfaltung weiterer Grundrechte haftet. Deshalb ist eine Umsetzung und Ermöglichung der Nutzung besonders für digitale Dienste innerhalb der Verwaltung eine unabdingbare Voraussetzung für ein chancengerechtes Miteinander. 
 
-{% tip %}
-
-**Autor:** Jonas Hacker
-
-{% endtip %}

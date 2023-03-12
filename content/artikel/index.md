@@ -13,21 +13,21 @@ includeGuides:
   - /actions/guides/building-and-testing-powershell
   - /artikel/allgemeines/beitrag1
   - /artikel/allgemeines/beitrag2
-  - /artikel/allgemeines/beitrag3
+  - /artikel/digitalerechte/beitrag3
   - /artikel/allgemeines/beitrag4
-  - /artikel/allgemeines/beitrag5
+  - /artikel/digitalerechte/beitrag5
   - /artikel/allgemeines/beitrag6
   - /artikel/allgemeines/beitrag7
   - /artikel/allgemeines/beitrag8
-  - /artikel/thema1/beitrag9
+  - /artikel/allgemeines/beitrag9
   - /artikel/thema1/beitrag10
   - /artikel/thema1/beitrag11
   - /artikel/thema1/beitrag12
   - /artikel/thema1/beitrag13
-  - /artikel/thema1/beitrag14
-  - /artikel/thema1/beitrag15
-  - /artikel/thema1/beitrag16
-  - /artikel/thema1/beitrag17
+  - /artikel/digitalerechte/beitrag14
+  - /artikel/allgemeines/beitrag15
+  - /artikel/digitalerechte/beitrag16
+  - /artikel/allgemeines/beitrag17
   - /artikel/thema1/beitrag18
   - /artikel/thema1/beitrag19
   - /artikel/thema1/beitrag20
@@ -46,5 +46,6 @@ versions:
 children:
   - thema1
   - allgemeines
+  - digitalerechte
 ---
 

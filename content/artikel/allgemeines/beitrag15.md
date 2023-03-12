@@ -56,9 +56,3 @@ In Verbindung mit der Ansammlung von persönlichen Daten bei der elektronischen 
 Zusammenfassend lässt sich sagen, dass Art. 2 Satz 2 Nr.5 eine Notwendigkeit für äußerst wichtige Digitalisierungsfortschritte in Gesundheit und Pflege darstellt. Die Herausforderungen vor denen fast alle Gesundheitssysteme der westlichen Welt stehen – immer mehr ältere und chronisch kranke Menschen zu behandeln, teure medizinische Innovationen zu bezahlen und strukturschwache ländliche Gebiete weiterhin gut medizinisch zu versorgen – können mit Hilfe von digitalen Technologien angegangen und verbessert werden. Deshalb ist eine Zusammenarbeit und Förderung von Kommunen und Krankenhäusern bzw. Praxen welche in diesem Artikel beschrieben werden, unabdingbar. 
 
 Die Verantwortung des Freistaates Bayern liegt also darin, genügend Anreize und einen ausreichenden Rahmen zur Verfügung zu stellen, in welchem ein Aufschwung der Digitalisierung in Gesundheit und Pflege ermöglicht werden kann. Die Zuständigkeit der erforderlichen digitalen Schritte darf deshalb nicht nur auf dem Eigenverantwortungsprinzip von Kliniken und Praxen beruhen.  
-
-{% tip %}
-
-**Autor:** Jonas Hacker
-
-{% endtip %}

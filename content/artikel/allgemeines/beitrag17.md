@@ -48,10 +48,3 @@ Ein weiterer wichtiger Punkt stellt die Digital Responsibility dar, welche die V
 
 Mit dem BayDiG besteht eine besondere Möglichkeit digitale Geschäftsmodelle zu fördern. Hierbei entsteht ein Nutzen für mehrere Akteure. Zum einen profitiert die gesamte Wirtschaft Bayerns davon, wenn gute Fördermodelle vorhanden sind. Zum anderen profitiert der Nutzer der verschiedenen Angebote, bei einer breiten Auswahlmöglichkeit. Der vorschreitenden Weiterentwicklung der digitalen Welt und somit auch die Möglichkeiten für digitale Geschäftsmodelle wird nichts mehr im Wege stehen, sobald die nötigen Rahmenbedingungen und Kritikpunkte in dem BayDiG festgehalten sind. 
 
-
-
-{% tip %}
-
-**Autor:** Jonas Hacker
-
-{% endtip %}

@@ -12,13 +12,14 @@ versions:
   fpt: '*'
 children:
   - beitrag1
+  - beitrag15
   - beitrag7
+  - beitrag4
+  - beitrag17
   - beitrag8
   - beitrag6
   - beitrag2
-  - beitrag4
-  - beitrag5
-  - beitrag3
+  - beitrag9
 
 ---
 

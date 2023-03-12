@@ -15,7 +15,7 @@ versions:
 type: art2
 topics:
   - WS 2021/22
-shortTitle: Digitaler Verbraucherschutz (Art. 8)
+shortTitle: Digitaler Verbraucherschutz (Art. 2)
 ---
 
 

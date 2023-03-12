@@ -12,9 +12,9 @@ redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-git-large-file-storage/upgrading-git-large-file-storage
 versions:
   fpt: '*'
-type: how_to
+type: art39
 topics:
-  - Art. 39
+  - WS 2021/22
 shortTitle: Bayernserver
 ---
 
