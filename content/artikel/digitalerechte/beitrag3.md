@@ -31,9 +31,3 @@ Doch genau von diesem Begriffsverständnis setzt sich der Gesetzesentwurf ausdr�
 Die Konzeption des Artikel 11 entwickelt dabei eine Besonderheit des bayrischen Rechts fort, nämlich die Einräumung subjektiver Rechte auf digitale Verwaltung. Schon Art. 2 S. 1 BayEGovG statuiert das Recht des Einzelnen auf digitale Kommunikation mit den Behörden (als einziges E-Government Gesetz). Art. 11 BayDiG-E dehnt dieses Recht jetzt umfassend auch auf die Bereitstellung verschiedenen staatlicher Dienste aus. Es bleibt abzuwarten, inwiefern die tatsächliche Bereitstellung dieser Dienste der Rechtsgewährung folgen wird. Die offene Definition des Art. 11 I wird zwar für eine große technische Flexibilität, jedoch auch für eine gewisse Unsicherheit bezüglich des Inhalts des Rechts der digitalen Identität sorgen. Hier wird es Aufgabe der Rechtswissenschaften sein, eine rechtliche Konkretisierung des Rechts auf digitale Identität zu schaffen. Anhaltspunkt hierfür könnte der Verweis des Art. 11 II BayDiG-E auf Art. 29 bis 31 sein, die einen gewissen „Kern“ der digitalen Identität beschreiben.
 
 Insgesamt ist die Konzeption des Begriffs der digitalen Identität in Art. 11 BayDiG-E äußerst begrüßenswert und könnte sich als wegweisend erweisen. Insbesondere seine Orientierung am Prinzip des selbstbestimmten Nutzers und dessen Kontrolle über seine Daten ist bemerkenswert. Inwieweit das tatsächliche Angebot staatlicher Dienste mit der umfassenden Rechtsgewährung Schritt halten kann, bleibt abzuwarten, ebenso wie die konkrete Ausgestaltung des Rechts selbst. Eine Regelung zur Portierung der digitalen Identität in Systeme anderer Länder wäre perspektivisch wünschenswert gewesen, wäre aber wahrscheinlich aufgrund der Vorreiterrolle des BayDiG zunächst nur eine politische Absichtserklärung gewesen.
-
-{% tip %}
-
-**Autor:** Julian Hofmann
-
-{% endtip %}

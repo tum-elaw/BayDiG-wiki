@@ -65,9 +65,3 @@ Darüber hinaus wird bei einer dezentralen Standortstrategie die Stärkung der z
 
 Der Aufbau eines Bayernservers mit eigener technischer Infrastruktur inkl. Soft- und Hardware ist ein wichtiger Schritt in die digitale Zukunft des modernen E-Government. Es ist zu begrüßen, dass auch hinsichtlich der Hardware ein Konzept mit physischen Standorten im bayrischen Raum erarbeitet wird. Gerade jüngste Krisenereignisse haben gezeigt, dass internationale Strukturen und Interdependenzen potenziell fragiler sind als bisher angenommen. 
 Zuverlässige Datensicherheit und Unabhängigkeit von externen Anbietern können mit dem Bayernserver gelebte Realität werden. 
-
-{% tip %}
-
-**Autor:** Lukas Baumgartner
-
-{% endtip %}

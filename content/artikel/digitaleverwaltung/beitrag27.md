@@ -1,6 +1,8 @@
 ---
 title: Digitale Kommunikation – Art. 16 BayDiG 
 intro: ''
+contributor:
+  name: Selim Tekin
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/

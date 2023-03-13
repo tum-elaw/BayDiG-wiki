@@ -37,10 +37,3 @@ Chancen, die durch die Umsetzung des Begriffs eröffnet werden, sind, dass Fraue
 ## 5. Fazit, Bewertung und Ideen zur Umsetzung des Begriffs
 
 Ich stehe der Formulierung „Gleichberechtigter Zugang zu Digitalberufen“ kritisch gegenüber, da es sich so verstehen lässt, dass Frauen nicht die gleichen Rechte beim Zugang zu Digitalberufen haben. Stattdessen sollte lieber der Fokus, ähnlich wie eigentlich in der Gesetzesbegründung dargestellt, die Förderungen von Frauen im Zentrum der Umsetzung des des Gesetzesartikels stehen. Außerdem nennt die Gesetzesbegründung nur Frauen, während der Gesetzesartikel an sich nur generell von einem gleichberechtigten Zugang spricht. Hier besteht also Nachbesserungsbedarf, ob ausschließlich die Förderung von Frauen gemeint ist, oder ob auch andere gesellschaftliche Gruppen speziell gefördert werden sollen. Wie bereits erwähnt wird BayFiD als Umsetzung des Begriffes genannt, aber die geringe Zahl an Teilnehmerinnen kann nicht zu einem generellen gleichberechtigten Zugang zu Digitalberufen dienen, sondern eher als Leuchtturmprojekt.
-
-
-{% tip %}
-
-**Autor:** Sophie Salfetter
-
-{% endtip %}

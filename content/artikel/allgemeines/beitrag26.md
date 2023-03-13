@@ -1,6 +1,8 @@
 ---
 title: Digitalisierung von Staat und Verwaltung - Art. 5 BayDiG
 intro: ''
+contributor:
+  name: Selim Tekin
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/

@@ -1,6 +1,8 @@
 ---
 title: Digitalisierung im Mobilitätsbereich II – Art. 2 S. 2 Nr. 4 BayDiG
 intro: ''
+contributor:
+  name: Sebastian Barthel
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/

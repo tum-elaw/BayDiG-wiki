@@ -2,8 +2,8 @@
 title: Digitale Qualifizierung der Beschäftigten der öffentlichen Verwaltung - Art. 7 BayDiG-E
 intro: 'Digitale Qualifizierung der Beschäftigten der öffentlichen Verwaltung - Art. 7 BayDiG-E'
 contributor:
-  name: Jonas Hacker
-  URL: https://www.gov.sot.tum.de/elaw/team/julian-hofmann/
+  name: Julian Maurer
+  URL: https://www.gov.sot.tum.de/elaw/team/julian-maurer/
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/
@@ -46,9 +46,3 @@ Die Umsetzung der digitalen Qualifizierung der Beschäftigten in der öffentlich
 Der Freistaat kann nur von gut ausgebildeten Beschäftigten erwarten, neue Digitalanwendungen in ihrer täglichen Arbeit zu nutzen. Durch die Verankerung des Weiterbildungsanspruchs in Art. 7 BayDiG-E stärkt der Freistaat einerseits die Position der Beschäftigten des öffentlichen Dienstes, andererseits zeigt er auch seine Leistungsbereitschaft gegenüber denjenigen, welche sich mit dem Thema Digitalisierung noch schwer tun. Beschäftigte, welche über geringe Digitalkompetenzen verfügen, können durch geeignete Weiterbildungsmaßnahmen peau à peau an das Thema „Digitalisierung“ herangeführt werden, wodurch erreicht werden kann, dass der Geist der Digitalisierung behördenübergreifend gelebt wird.
 
 Wie bereits oben erwähnt, ist die Ausklammerung aus der verpflichtenden Einführung von Fort- und Weiterbildungsangeboten zum Thema Digitalisierung für dem Freistaat nachgeordnete Behörden und Körperschaften als unbefriedigend zu werten. Es gilt zu verhindern, dass Beschäftigte des öffentlichen Dienstes auf kommunaler Ebene nicht im selben Umfang in digitale Prozesse eingewiesen werden, wie es bei Beschäftigten staatlicher Behörden der Fall ist. Dies ergibt sich bereits daraus, dass sich auch nachgelagerte Behörden nicht den Entwicklungen der Digitalisierung und den Regelungen des BayDiG-E entziehen können. Zum anderen dürfen bei den betroffenen Beschäftigten keine Kompetenzlücken entstehen, welche dazu führen, dass diese im Zweifel im Rahmen von Einstellungsverfahren staatlicher Behörden Bewerbern anderer staatlicher Behörden gegenüber benachteiligt werden.
-
-{% tip %}
-
-**Autor:** Julian Maurer
-
-{% endtip %}
