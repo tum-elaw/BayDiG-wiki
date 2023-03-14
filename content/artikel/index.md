@@ -8,9 +8,6 @@ redirect_from:
 product: 'Entwickelt am Lehrstuhl für Recht und Sicherheit der Digitalisierung (TUM) in Zusammenarbeit mit Studierenden der Hochschule für Politik München (TUM)'
 layout: product-sublanding
 includeGuides:
-  - /actions/guides/setting-up-continuous-integration-using-workflow-templates
-  - /actions/guides/building-and-testing-nodejs
-  - /actions/guides/building-and-testing-powershell
   - /artikel/allgemeines/beitrag1
   - /artikel/allgemeines/beitrag2
   - /artikel/digitalerechte/beitrag3
