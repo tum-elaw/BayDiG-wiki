@@ -30,6 +30,7 @@ const redirectsExternal = require('./redirects/external')
 const helpToDocs = require('./redirects/help-to-docs')
 const languageCodeRedirects = require('./redirects/language-code-redirects')
 const handleRedirects = require('./redirects/handle-redirects')
+const httpRedirects = require('./redirects/http-redirects')
 const findPage = require('./find-page')
 const blockRobots = require('./block-robots')
 const archivedEnterpriseVersionsAssets = require('./archived-enterprise-versions-assets')
@@ -134,6 +135,7 @@ module.exports = function (app) {
   app.use(instrument(helpToDocs, './redirects/help-to-docs'))
   app.use(instrument(languageCodeRedirects, './redirects/language-code-redirects')) // Must come before contextualizers
   app.use(instrument(handleRedirects, './redirects/handle-redirects')) // Must come before contextualizers
+  app.use(instrument(httpRedirects, './redirects/http-redirects')) // Must come before contextualizers
 
   // *** Config and context for rendering ***
   app.use(asyncMiddleware(instrument(findPage, './find-page'))) // Must come before archived-enterprise-versions, breadcrumbs, featured-links, products, render-page
