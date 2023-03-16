@@ -99,18 +99,7 @@ function LandingPage(props: LandingPageProps) {
         
           <div className="featured-links container-xl">
           <div className="gutter gutter-xl-spacious clearfix">
-            <div className="col-12 col-lg-6 mt-8 mb-md-4 mb-lg-0 float-left">
-            
-              <ArticleList
-                title={t('toc:getting_started')}
-                variant="spaced"
-                articles={gettingStartedLinks}
-              />
-            </div>
 
-            <div className="col-12 col-lg-6 mt-8 float-left">
-              <ArticleList title={t('toc:popular')} variant="spaced" articles={popularLinks} />
-            </div>
           </div>
         </div>
       </div>
