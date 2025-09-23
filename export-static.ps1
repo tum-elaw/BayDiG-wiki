@@ -29,9 +29,14 @@ if (-not (Test-Path "node_modules")) {
     }
 }
 
+# Set environment variables for English-only export
+$env:NODE_ENV = "production"
+$env:ENABLED_LANGUAGES = "en"
+Write-Host "Environment: NODE_ENV=production, ENABLED_LANGUAGES=en" -ForegroundColor Yellow
+
 # Run the static export script
 Write-Host "Starting static export..." -ForegroundColor Yellow
-node script/export-static-artikel.js
+node script/export-static-direct.js
 
 if ($LASTEXITCODE -eq 0) {
     Write-Host "`nStatic export completed successfully!" -ForegroundColor Green

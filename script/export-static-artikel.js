@@ -77,10 +77,22 @@ class RewriteAssetPathsPlugin {
 async function main () {
   console.log('Starting static export of BayDiG Wiki artikel pages for GitHub Pages...\n')
 
+  // Set environment variables for English-only build
+  process.env.NODE_ENV = 'production'
+  process.env.ENABLED_LANGUAGES = 'en'
+  console.log('Environment: NODE_ENV=production, ENABLED_LANGUAGES=en')
+
   // Build production assets
   console.log('Building production assets...')
   try {
-    execSync('npm run build', { stdio: 'inherit' })
+    execSync('npm run build', { 
+      stdio: 'inherit',
+      env: {
+        ...process.env,
+        NODE_ENV: 'production',
+        ENABLED_LANGUAGES: 'en'
+      }
+    })
   } catch (error) {
     console.error('Build failed:', error.message)
     process.exit(1)
@@ -135,14 +147,25 @@ async function main () {
       return response.statusCode < 400
     }
   }
-
   console.log('Starting server and scraping...')
   const app = createApp()
   const server = app.listen(port, async () => {
     console.log(`Server started on ${host}`)
     
     try {
-      await scrape(scraperOptions)
+      // Defensive scraper import
+      let scraperFunction = scrape
+      if (typeof scrape !== 'function') {
+        if (scrape && typeof scrape.scrape === 'function') {
+          scraperFunction = scrape.scrape
+        } else if (scrape && typeof scrape.default === 'function') {
+          scraperFunction = scrape.default
+        } else {
+          throw new Error('Could not find scraping function in website-scraper module')
+        }
+      }
+
+      await scraperFunction(scraperOptions)
       
       // Move scraped content to final location
       const scrapedPath = path.join(tempDirectory, `localhost_${port}`)

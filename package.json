@@ -212,7 +212,8 @@
     "pa11y-test": "start-server-and-test browser-test-server 4001 pa11y-ci",    "link-check": "start-server-and-test link-check-server 4002 link-check-test",
     "link-check-server": "cross-env NODE_ENV=development ENABLED_LANGUAGES='en' PORT=4002 node server.js",
     "link-check-test": "cross-env node script/check-internal-links.js",
-    "export-static": "node script/export-static-artikel.js",
+    "export-static": "cross-env NODE_ENV=production ENABLED_LANGUAGES=en node script/export-static-direct.js",
+    "export-static-scraper": "cross-env NODE_ENV=production ENABLED_LANGUAGES=en node script/export-static-artikel.js",
     "heroku-postbuild": "node script/early-access/clone-for-build.js && npm run build"
   },
   "engines": {

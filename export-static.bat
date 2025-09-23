@@ -32,11 +32,17 @@ if not exist node_modules (
 )
 
 echo.
+echo Setting environment variables...
+set NODE_ENV=production
+set ENABLED_LANGUAGES=en
+echo Environment: NODE_ENV=production, ENABLED_LANGUAGES=en
+
+echo.
 echo Starting static export...
 echo.
 
 REM Run the export script
-node script\export-static-artikel.js
+node script\export-static-direct.js
 
 if errorlevel 1 (
     echo.
