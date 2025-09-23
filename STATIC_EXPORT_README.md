@@ -18,74 +18,16 @@ The static export process creates a standalone HTML version of the wiki that inc
 
 ## Running the Export
 
-### Option 1: NPM Script (Recommended - Simple Direct Approach)
-
-```bash
-npm run export-static
-```
-
-This uses a simple HTTP-based approach that avoids website-scraper dependency issues.
-
-### Option 2: NPM Script (Website-Scraper Approach)
-
-```bash
-npm run export-static-scraper
-```
-
-Uses the more complex website-scraper library (may have dependency conflicts).
-
-### Option 3: PowerShell Script (Windows)
+### Option 1: PowerShell Script (Windows)
 
 ```powershell
 .\export-static.ps1
 ```
 
-### Option 4: Batch File (Windows)
-
-```batch
-export-static.bat
-```
-
-### Option 5: Direct Node.js Scripts
+### Option 2: Direct Node.js Script
 
 ```bash
-# Simple direct approach (recommended)
-node script/export-static-direct.js
-
-# Website-scraper approach
 node script/export-static-artikel.js
-
-# Robust version with build fallbacks
-node script/export-static-robust.js
-```
-
-## Troubleshooting
-
-### Website-Scraper Dependency Issues
-
-If you encounter errors like:
-```
-TypeError: select is not a function
-TypeError: scrape is not a function
-```
-
-Use the simple direct approach instead:
-```bash
-npm run export-static
-```
-
-This bypasses the website-scraper dependency and uses direct HTTP requests.
-
-## Important Environment Variables
-
-The export process requires specific environment variables to avoid build errors:
-
-- `NODE_ENV=production` - Ensures production build mode
-- `ENABLED_LANGUAGES=en` - Limits processing to English only, avoiding translation-related errors
-
-Without these variables, you may encounter errors like:
-```
-AssertionError: page translations/zh-CN/content/... has an invalid product ID
 ```
 
 ## Output

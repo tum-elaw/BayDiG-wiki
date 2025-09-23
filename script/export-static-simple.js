@@ -10,11 +10,6 @@ console.log('=========================')
 
 async function main() {
   try {
-    // Set environment variables for English-only processing
-    process.env.NODE_ENV = 'production'
-    process.env.ENABLED_LANGUAGES = 'en'
-    console.log('Environment: NODE_ENV=production, ENABLED_LANGUAGES=en\n')
-
     // Import required modules
     console.log('Loading required modules...')
     const createApp = require('../lib/app')
@@ -32,14 +27,7 @@ async function main() {
     // Build production assets
     console.log('\nBuilding production assets...')
     try {
-      execSync('npm run build', { 
-        stdio: 'inherit',
-        env: {
-          ...process.env,
-          NODE_ENV: 'production',
-          ENABLED_LANGUAGES: 'en'
-        }
-      })
+      execSync('npm run build', { stdio: 'inherit' })
       console.log('✓ Build completed')
     } catch (error) {
       console.error('Build failed:', error.message)
@@ -101,7 +89,9 @@ async function main() {
       filenameGenerator: 'bySiteStructure',
       requestConcurrency: 6,
       plugins: [new SimpleAssetRewriter()]
-    }    // Start server and scrape
+    }
+
+    // Start server and scrape
     console.log('\nStarting server...')
     const app = createApp()
     const server = app.listen(port, async () => {
@@ -109,19 +99,7 @@ async function main() {
       console.log('Starting scraping process...')
       
       try {
-        // Defensive scraper function detection
-        let scraperFunction = scrape
-        if (typeof scrape !== 'function') {
-          if (scrape && typeof scrape.scrape === 'function') {
-            scraperFunction = scrape.scrape
-          } else if (scrape && typeof scrape.default === 'function') {
-            scraperFunction = scrape.default
-          } else {
-            throw new Error('Could not find scraping function in website-scraper module')
-          }
-        }
-
-        await scraperFunction(scraperOptions)
+        await scrape(scraperOptions)
         
         // Move files
         const scrapedPath = path.join(tempDirectory, `localhost_${port}`)
