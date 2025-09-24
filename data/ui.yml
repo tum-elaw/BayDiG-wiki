@@ -48,12 +48,12 @@ errors:
   we_track_errors: We track these errors automatically, but if the problem persists please feel free to contact us.
   page_doesnt_exist: It looks like this page doesn't exist.
 support:
-  still_need_help: Hilfe?
+  still_need_help: Links
   contact_support: Administrator kontaktieren
   ask_community: TUM-Chat zur Wiki-Entwicklung
   qna: Q&A
 survey:
-  able_to_find: Wie findest du dieses Wiki?
+  able_to_find: Über das Projekt
   yes: Yes
   no: No
   yes_feedback: Wir verbessern unser Wiki kontinuierlich. Wir würden gerne hören, was wir gut machen.

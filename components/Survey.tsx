@@ -1,8 +1,6 @@
 import { useState, useRef } from 'react'
 import { ThumbsdownIcon, ThumbsupIcon } from '@primer/octicons-react'
 import { useTranslation } from 'components/hooks/useTranslation'
-import { Link } from 'components/Link'
-import { sendEvent, EventType } from '../javascripts/events'
 
 enum ViewState {
   START = 'START',
@@ -16,70 +14,21 @@ export const Survey = () => {
   const [state, setState] = useState<ViewState>(ViewState.START)
   const formRef = useRef<HTMLFormElement>(null)
 
-  function vote(state: ViewState) {
-    return () => {
-      trackEvent(getFormData())
-      setState(state)
-    }
-  }
-
-  function submit(evt: React.FormEvent) {
-    evt.preventDefault()
-    trackEvent(getFormData())
-    setState(ViewState.END)
-  }
-
-  function getFormData() {
-    if (!formRef.current) return
-    return new FormData(formRef.current)
-  }
-
   return (
-    <form className="f5" onSubmit={submit} ref={formRef} data-testid="survey-form">
+    
+    <form className="f5" ref={formRef} data-testid="survey-form">
       <h2 className="mb-1 f4">
         {t`able_to_find`}
 
-        <Link
-          className="f6 text-normal ml-3 color-text-link"
-          href="https://www.tum-cdps.de/"
-          target="_blank"
-        >
-          {t`privacy_policy`}
-        </Link>
+    
       </h2>
+      <p className="color-text-secondary f6">Das Wiki zum Bayerischen Digitalgesetz. Zu den Projektbeteiligten gehörten Prof. Dr. Dirk Heckmann (Leitung), Michael Bressler (Plattform), Alexander Besner und Nicolas Ziegler (Seminar)</p>
 
       {/* Honeypot: token isn't a real field */}
-      <input type="text" className="d-none" name="survey-token" aria-hidden="true" />
+      
 
       {state !== ViewState.END && (
-        <p className="radio-group">
-          <input
-            id="survey-yes"
-            type="radio"
-            name="survey-vote"
-            value="Y"
-            aria-label={t`yes`}
-            hidden
-            onChange={vote(ViewState.YES)}
-            defaultChecked={state === ViewState.YES}
-          />
-          <label className="btn x-radio-label mr-1" htmlFor="survey-yes">
-            <ThumbsupIcon size={24} className="color-text-tertiary" />
-          </label>
-          <input
-            id="survey-no"
-            type="radio"
-            name="survey-vote"
-            value="N"
-            aria-label={t`no`}
-            hidden
-            onChange={vote(ViewState.NO)}
-            defaultChecked={state === ViewState.NO}
-          />
-          <label className="btn x-radio-label" htmlFor="survey-no">
-            <ThumbsdownIcon size={24} className="color-text-tertiary" />
-          </label>
-        </p>
+        <div className="mb-3"></div>
       )}
 
       {[ViewState.YES, ViewState.NO].includes(state) && (
@@ -98,11 +47,6 @@ export const Survey = () => {
                 {t`optional`}
               </span>
             </label>
-            <textarea
-              className="form-control input-sm width-full"
-              name="survey-comment"
-              id="survey-comment"
-            ></textarea>
           </p>
           <p>
             <label className="d-block mb-1 f6" htmlFor="survey-email">
@@ -111,19 +55,10 @@ export const Survey = () => {
                 {t`optional`}
               </span>
             </label>
-            <input
-              type="email"
-              className="form-control input-sm width-full"
-              name="survey-email"
-              id="survey-email"
-              placeholder={t`email_placeholder`}
-            />
+        
             <span className="f6 color-text-secondary">{t`not_support`}</span>
           </p>
           <p className="text-right">
-            <button type="submit" className="btn btn-sm">
-              {t`send`}
-            </button>
           </p>
         </>
       )}
@@ -135,14 +70,4 @@ export const Survey = () => {
   )
 }
 
-function trackEvent(formData: FormData | undefined) {
-  if (!formData) return
-  // Nota bene: convert empty strings to undefined
-  return sendEvent({
-    type: EventType.survey,
-    survey_token: (formData.get('survey-token') as string) || undefined, // Honeypot
-    survey_vote: formData.get('survey-vote') === 'Y',
-    survey_comment: (formData.get('survey-comment') as string) || undefined,
-    survey_email: (formData.get('survey-email') as string) || undefined,
-  })
-}
+

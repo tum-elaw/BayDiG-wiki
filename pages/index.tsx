@@ -61,7 +61,7 @@ function LandingPage(props: LandingPageProps) {
                   </div>
                   <div className="col-lg-5 mt-6">
                     <h1 className="h1-mktg mb-3">{t('search:need_help')}</h1>
-                    {SearchInput}
+                    
                   </div>
                 </div>
                 <a id="ask-community" href="/artikel" className="btn btn-outline mr-4 mt-0">
