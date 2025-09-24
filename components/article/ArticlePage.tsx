@@ -53,7 +53,7 @@ export const ArticlePage = () => {
                     <span className="mr-2">
                       <InfoIcon />
                     </span>
-                    {t('contributor_callout')} <a href={contributor.URL} target="_blank">{contributor.name}</a>.
+                    {t('contributor_callout')} <a href={contributor.URL} target="_blank">{contributor.name}</a>. Stand der Bearbeitung: 14.03.2023.
                   </p>
                 </div>
               )}
