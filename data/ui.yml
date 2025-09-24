@@ -73,7 +73,7 @@ contribution_cta:
   body: Diese Artikel sind open source. Dir ist etwas falsches oder unklares aufgefallen? Reiche eine Änderung ein.
   button: Trage etwas bei
   or: Oder,
-  to_guidelines: lerne wie du etwas beitragen kannst.
+  to_guidelines: lerne wie du etwas beitragen kannst (inaktiv).
 products:
   graphql:
     reference:
