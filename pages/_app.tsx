@@ -35,6 +35,7 @@ const MyApp = ({ Component, pageProps, csrfToken, themeProps }: MyAppProps) => {
       </Head>
       <ThemeProvider>
         <SetTheme themeProps={themeProps} />
+        <div className='pl-4 py-2 color-bg-warning'><h4><b>Archivseite</b> (2021 - 2023)</h4></div>
         <Component {...pageProps} />
       </ThemeProvider>
     </>
