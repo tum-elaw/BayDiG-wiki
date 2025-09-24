@@ -1,5 +1,5 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-digitalgesetz.wiki	TRUE	/	FALSE	1999999999	_csrf	I3e6h8aG93oIOSx0QM1qtzCa
+digitalgesetz.wiki	TRUE	/	FALSE	1999999999	_csrf	57xlV7FAZVdXl2jVnujC8GuZ
 digitalgesetz.wiki	TRUE	/	FALSE	1999999999	SameSite	Lax
 
