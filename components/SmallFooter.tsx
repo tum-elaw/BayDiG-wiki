@@ -15,6 +15,9 @@ export const SmallFooter = () => {
           <li className="ml-3 no-print">
             <a href="https://www.gov.sot.tum.de/elaw/impressum/">{`Impressum`} </a>
           </li>
+          <li className="ml-3 no-print">
+            <a href="https://sml.tum-cdps.de/en/fragen/datenschutzerklaerung">{`Datenschutzerklärung`} </a>
+          </li>
           <li className="ml-3">
             <a href="https://digitalgesetz.wiki">{`digitalgesetz.wiki`} </a>
           </li>
